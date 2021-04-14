@@ -11,7 +11,7 @@ require('chai')
   .use(require('chai-bn')(BN))
   .should();
 
-contract('Off', ([_, owner, attacker, controller, user]) => { // eslint-disable-line no-unused-vars
+contract('Off', ([_, owner, attacker, controller, user]) => {
   let off = null;
   let tokenId = 0;
   let metadataHash = "QmbLnKaAsUbCXx3JYtMTkgXAeAUx2TN8diuy6qFhwN1zE5";
