@@ -13,14 +13,14 @@ require('chai')
 
 contract('Off', ([_, owner, attacker, controller, user]) => {
   let off = null;
-  let tokenId = 0;
-  let metadataHash = "QmbLnKaAsUbCXx3JYtMTkgXAeAUx2TN8diuy6qFhwN1zE5";
-  let imageHash = "QmRfQakyz9mmKJE8BMQTZMm9QAWsiRp9oroGcyeKFyANid";
-  let uri = "uri"
-  let baseUri = "http://url.com/"
+  const tokenId = 0;
+  const metadataHash = 'QmbLnKaAsUbCXx3JYtMTkgXAeAUx2TN8diuy6qFhwN1zE5';
+  const imageHash = 'QmRfQakyz9mmKJE8BMQTZMm9QAWsiRp9oroGcyeKFyANid';
+  const uri = 'uri';
+  const baseUri = 'http://url.com/';
 
   beforeEach(async () => {
-    off = await Off.new("off", "OFF", web3.utils.toWei('35'), { from: owner });
+    off = await Off.new('off', 'OFF', web3.utils.toWei('35'), { from: owner });
   });
 
   it('owner can set baseUri', async () => {
@@ -79,5 +79,87 @@ contract('Off', ([_, owner, attacker, controller, user]) => {
     const otherTokenId = 200;
     await off.mint(otherTokenId, false, uri, metadataHash, imageHash, { from: owner });
     (await off.ownerOf(otherTokenId)).should.be.equal(owner);
+  });
+
+  it('owner can sell minted token, if for sale', async () => {
+    await off.mint(tokenId, true, uri, metadataHash, imageHash, { from: owner });
+    await off.sell(tokenId, user, { from: owner });
+    (await off.ownerOf(tokenId)).should.be.equal(user);
+  });
+
+  it('owner can not sell minted token, if not for sale', async () => {
+    await off.mint(tokenId, false, uri, metadataHash, imageHash, { from: owner });
+    await assertRevert(off.sell(tokenId, user, { from: owner }));
+  });
+
+  it('owner can not sell unminted token', async () => {
+    await assertRevert(off.sell(tokenId, user, { from: owner }));
+  });
+
+  it('controller can sell minted token, if for sale and controller set', async () => {
+    await off.mint(tokenId, true, uri, metadataHash, imageHash, { from: owner });
+    await off.setController(controller, { from: owner });
+    await off.sell(tokenId, user, { from: controller });
+    (await off.ownerOf(tokenId)).should.be.equal(user);
+  });
+
+  it('controller can not sell minted token, if not for sale and controller set', async () => {
+    await off.mint(tokenId, false, uri, metadataHash, imageHash, { from: owner });
+    await off.setController(controller, { from: owner });
+    await assertRevert(off.sell(tokenId, user, { from: controller }));
+  });
+
+  it('controller can not sell unminted token', async () => {
+    await off.setController(controller, { from: owner });
+    await assertRevert(off.sell(tokenId, user, { from: controller }));
+  });
+
+  it('attacker can not minted token, if for sale', async () => {
+    await off.mint(tokenId, true, uri, metadataHash, imageHash, { from: owner });
+    await assertRevert(off.sell(tokenId, user, { from: attacker }));
+  });
+
+  it('attacker can not sell minted token, if not for sale', async () => {
+    await off.mint(tokenId, false, uri, metadataHash, imageHash, { from: owner });
+    await assertRevert(off.sell(tokenId, user, { from: attacker }));
+  });
+
+  it('attacker can not sell unminted token', async () => {
+    await assertRevert(off.sell(tokenId, user, { from: attacker }));
+  });
+
+  it('user can buy minted token, if for sale', async () => {
+    await off.mint(tokenId, true, uri, metadataHash, imageHash, { from: owner });
+    await off.buy(tokenId, user, { from: user, value: web3.utils.toWei('35') });
+    (await off.ownerOf(tokenId)).should.be.equal(user);
+  });
+
+  it('user can not buy minted token, if not for sale', async () => {
+    await off.mint(tokenId, false, uri, metadataHash, imageHash, { from: owner });
+    await assertRevert(off.buy(tokenId, user, { from: user, value: web3.utils.toWei('35') }));
+  });
+
+  it('user can not buy unminted token', async () => {
+    await assertRevert(off.buy(tokenId, user, { from: user, value: web3.utils.toWei('35') }));
+  });
+
+  it('user can not buy minted token, if for sale, when sending less than price', async () => {
+    await off.mint(tokenId, true, uri, metadataHash, imageHash, { from: owner });
+    await assertRevert(off.buy(tokenId, user, { from: user, value: web3.utils.toWei('34') }));
+  });
+
+  it('user can not buy minted token, if not for sale, when sending less than price', async () => {
+    await off.mint(tokenId, false, uri, metadataHash, imageHash, { from: owner });
+    await assertRevert(off.buy(tokenId, user, { from: user, value: web3.utils.toWei('34') }));
+  });
+
+  it('user can not buy unminted token, when sending less than price', async () => {
+    await assertRevert(off.buy(tokenId, user, { from: user, value: web3.utils.toWei('34') }));
+  });
+
+  it('user buying token leaves eth in contract', async () => {
+    await off.mint(tokenId, true, uri, metadataHash, imageHash, { from: owner });
+    await off.buy(tokenId, user, { from: user, value: web3.utils.toWei('35') });
+    (await web3.eth.getBalance(off.address)).should.be.equal(web3.utils.toWei('35'));
   });
 });
