@@ -51,6 +51,11 @@ contract Off is Ownable, ERC721 {
         _setTokenURI(tokenId, tokenURI);
     }
 
+    function setForSale(uint256 tokenId, bool forSale_) public onlyOwner {
+        require(_exists(tokenId), "");
+        forSale[tokenId] = forSale_;
+    }
+
     function buy(uint256 tokenId, address to) public payable {
         require(forSale[tokenId]);
         require(_exists(tokenId), "");

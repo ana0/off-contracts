@@ -52,6 +52,19 @@ contract('Off', ([_, owner, attacker, controller, user]) => {
     );
   });
 
+  it('owner can update for sale status of token', async () => {
+    await off.mint(tokenId, true, uri, secretImageHash, imageHash, { from: owner });
+    await off.setForSale(tokenId, false, { from: owner });
+    (await off.forSale(tokenId)).should.be.equal(false);
+  });
+
+  it('attacker can not update for sale status of token', async () => {
+    await off.mint(tokenId, true, uri, secretImageHash, imageHash, { from: owner });
+    await assertRevert(
+      off.setForSale(tokenId, false, { from: attacker }),
+    );
+  });
+
   it('minted token is set as for sale', async () => {
     await off.mint(tokenId, true, uri, secretImageHash, imageHash, { from: owner });
     (await off.forSale(tokenId)).should.be.equal(true);
