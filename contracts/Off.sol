@@ -2,23 +2,18 @@
 pragma solidity ^0.7.0;
 
 import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
+import "@openzeppelin/contracts/access/Ownable.sol";
 
-contract Off is ERC721 {
+contract Off is Ownable, ERC721 {
     address public controller;
-    address public owner;
     uint256 public price;
 
     mapping (uint256 => bool) public forSale;
     mapping (uint256 => string) public imageHash;
-    mapping (uint256 => string) public metadataHash;
-
-    modifier onlyOwner() {
-        require(msg.sender == owner, "Must be owner");
-        _;
-    }
+    mapping (uint256 => string) public secretImageHash;
 
     modifier onlyOwnerOrController() {
-        require((msg.sender == owner || msg.sender == controller), "Must be owner or controller");
+        require((msg.sender == owner() || msg.sender == controller), "Must be owner or controller");
         _;
     }
 
@@ -27,17 +22,12 @@ contract Off is ERC721 {
         _;
     }
 
-    constructor (string memory name_, string memory symbol_, uint256 price_) ERC721(name_, symbol_) {
+    constructor (string memory name_, string memory symbol_, uint256 price_) Ownable() ERC721(name_, symbol_) {
         price = price_;
-        owner = msg.sender;
     }
 
     function setController(address controller_) public onlyOwner {
         controller = controller_;
-    }
-
-    function setOwner(address owner_) public onlyOwner {
-        owner = owner_;
     }
 
     function setPrice(uint256 price_) public onlyOwner {
@@ -49,15 +39,15 @@ contract Off is ERC721 {
     }
 
     function withdraw() public onlyOwner {
-        bool sent = payable(owner).send(address(this).balance);
+        bool sent = payable(owner()).send(address(this).balance);
         require(sent, "Failed to send Ether");
     }
 
-    function mint(uint256 tokenId, bool forSale_, string memory tokenURI, string memory metadataHash_, string memory imageHash_) public onlyOwner {
+    function mint(uint256 tokenId, bool forSale_, string memory tokenURI, string memory secretImageHash_, string memory imageHash_) public onlyOwner {
         forSale[tokenId] = forSale_;
-        metadataHash[tokenId] = metadataHash_;
+        secretImageHash[tokenId] = secretImageHash_;
         imageHash[tokenId] = imageHash_;
-        _safeMint(owner, tokenId);
+        _safeMint(owner(), tokenId);
         _setTokenURI(tokenId, tokenURI);
     }
 
@@ -66,13 +56,13 @@ contract Off is ERC721 {
         require(_exists(tokenId), "");
         require(msg.value >= price);
         forSale[tokenId] = false;
-        _transfer(owner, to, tokenId);
+        _transfer(owner(), to, tokenId);
     }
 
     function sell(uint256 tokenId, address to) public onlyOwnerOrController {
         require(forSale[tokenId]);
         require(_exists(tokenId), "");
         forSale[tokenId] = false;
-        _transfer(owner, to, tokenId);
+        _transfer(owner(), to, tokenId);
     }
 }
