@@ -1,5 +1,6 @@
 const {
   BN,
+  ZERO_ADDRESS,
 } = require('./helpers/constants');
 const {
   assertRevert,
@@ -118,6 +119,15 @@ contract('Off', ([_, owner, attacker, controller, user]) => {
     token[2].should.be.equal(secretImageHash);
     token[3].should.be.equal(imageHash);
     token[4].should.be.equal(owner);
+  });
+
+  it('token getter returns correct info when token is unminted', async () => {
+    const token = await off.getToken(tokenId);
+    token[0].should.be.equal("");
+    token[1].should.be.equal(false);
+    token[2].should.be.equal("");
+    token[3].should.be.equal("");
+    token[4].should.be.equal(ZERO_ADDRESS);
   });
 
   it('owner can sell minted token, if for sale', async () => {

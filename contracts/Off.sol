@@ -79,12 +79,21 @@ contract Off is Ownable, ERC721 {
         string memory,
         address
     ) {
+        if (_exists(tokenId)) {
+            return (
+                tokenURI(tokenId),
+                forSale[tokenId],
+                secretImageHash[tokenId],
+                imageHash[tokenId],
+                ownerOf(tokenId)
+            );
+        }
         return (
-          tokenURI(tokenId),
-          forSale[tokenId],
-          secretImageHash[tokenId],
-          imageHash[tokenId],
-          ownerOf(tokenId)
+            "",
+            false,
+            "",
+            "",
+            address(0)
         );
     }
 } 
