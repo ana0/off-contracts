@@ -58,6 +58,20 @@ contract('Off', ([_, owner, attacker, controller, user]) => {
     (await off.forSale(tokenId)).should.be.equal(false);
   });
 
+  it('owner can not update for sale status of unminted token', async () => {
+    await assertRevert(
+      off.setForSale(tokenId, false, { from: owner }),
+    );
+  });
+
+  it('owner can not update for sale status of sold token', async () => {
+    await off.mint(tokenId, true, uri, secretImageHash, imageHash, { from: owner });
+    await off.sell(tokenId, user, { from: owner });
+    await assertRevert(
+      off.setForSale(tokenId, false, { from: owner }),
+    );
+  });
+
   it('attacker can not update for sale status of token', async () => {
     await off.mint(tokenId, true, uri, secretImageHash, imageHash, { from: owner });
     await assertRevert(
@@ -94,6 +108,16 @@ contract('Off', ([_, owner, attacker, controller, user]) => {
     const otherTokenId = 200;
     await off.mint(otherTokenId, false, uri, secretImageHash, imageHash, { from: owner });
     (await off.ownerOf(otherTokenId)).should.be.equal(owner);
+  });
+
+  it('token getter returns correct info', async () => {
+    await off.mint(tokenId, true, uri, secretImageHash, imageHash, { from: owner });
+    const token = await off.getToken(tokenId);
+    token[0].should.be.equal(uri);
+    token[1].should.be.equal(true);
+    token[2].should.be.equal(secretImageHash);
+    token[3].should.be.equal(imageHash);
+    token[4].should.be.equal(owner);
   });
 
   it('owner can sell minted token, if for sale', async () => {

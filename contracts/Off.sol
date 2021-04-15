@@ -53,6 +53,7 @@ contract Off is Ownable, ERC721 {
 
     function setForSale(uint256 tokenId, bool forSale_) public onlyOwner {
         require(_exists(tokenId), "");
+        require(ownerOf(tokenId) == owner());
         forSale[tokenId] = forSale_;
     }
 
@@ -70,4 +71,20 @@ contract Off is Ownable, ERC721 {
         forSale[tokenId] = false;
         _transfer(owner(), to, tokenId);
     }
-}
+
+    function getToken(uint256 tokenId) public view returns (
+        string memory,
+        bool,
+        string memory,
+        string memory,
+        address
+    ) {
+        return (
+          tokenURI(tokenId),
+          forSale[tokenId],
+          secretImageHash[tokenId],
+          imageHash[tokenId],
+          ownerOf(tokenId)
+        );
+    }
+} 
