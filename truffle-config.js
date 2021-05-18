@@ -4,15 +4,16 @@ const HDWalletProvider = require('@truffle/hdwallet-provider');
 module.exports = {
   networks: {
     development: {
-     host: "127.0.0.1",     // Localhost (default: none)
-     port: 8545,            // Standard Ethereum port (default: none)
-     network_id: "*",       // Any network (default: none)
+      host: '127.0.0.1', // Localhost (default: none)
+      port: 8545, // Standard Ethereum port (default: none)
+      network_id: '*', // Any network (default: none)
     },
     xdai: {
-      provider: function() {
+      provider() {
         return new HDWalletProvider(
-        process.env.MNEMONIC,
-        "https://dai.poa.network")
+          process.env.MNEMONIC,
+          'https://dai.poa.network',
+        );
       },
       network_id: 100,
       gas: 12487794,
@@ -28,7 +29,7 @@ module.exports = {
   // Configure your compilers
   compilers: {
     solc: {
-      version: "0.7.0",    // Fetch exact version from solc-bin (default: truffle's version)
+      version: '0.7.6', // Fetch exact version from solc-bin (default: truffle's version)
       // docker: true,        // Use "0.5.1" you've installed locally with docker (default: false)
       // settings: {          // See the solidity docs for advice about optimization and evmVersion
       //  optimizer: {
@@ -37,9 +38,9 @@ module.exports = {
       //  },
       //  evmVersion: "byzantium"
       // }
-    }
+    },
   },
   db: {
-    enabled: false
-  }
+    enabled: false,
+  },
 };

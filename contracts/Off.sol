@@ -3,10 +3,14 @@ pragma solidity ^0.7.0;
 
 import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
+import "./NativeMetaTransaction.sol";
+import "./ContextMixin.sol";
+import "./SignatureValidator.sol";
 
-contract Off is Ownable, ERC721 {
+contract Off is Ownable, ERC721, ContextMixin, NativeMetaTransaction, SignatureValidator {
     address public controller;
     uint256 public price;
+    string public contractURI;
 
     mapping (uint256 => bool) public forSale;
     mapping (uint256 => string) public imageHash;
@@ -38,6 +42,10 @@ contract Off is Ownable, ERC721 {
         _setBaseURI(baseURI_);
     }
 
+    function setContractURI(string memory contractURI_) public onlyOwner {
+        contractURI = contractURI_;
+    }
+
     function withdraw() public onlyOwner {
         bool sent = payable(owner()).send(address(this).balance);
         require(sent, "Failed to send Ether");
@@ -57,7 +65,7 @@ contract Off is Ownable, ERC721 {
         forSale[tokenId] = forSale_;
     }
 
-    function buy(uint256 tokenId, address to) public payable {
+    function buy(uint256 tokenId, address to, string memory authorization) public payable {
         require(forSale[tokenId]);
         require(_exists(tokenId), "");
         require(msg.value >= price);
@@ -95,5 +103,31 @@ contract Off is Ownable, ERC721 {
             "",
             address(0)
         );
+    }
+
+    /**
+     * This is used instead of msg.sender as transactions won't be sent by the original token owner, but by OpenSea.
+     */
+    function _msgSender()
+        internal
+        override
+        view
+        returns (address payable sender)
+    {
+        return ContextMixin.msgSender();
+    }
+
+    /**
+    * As another option for supporting trading without requiring meta transactions, override isApprovedForAll to whitelist OpenSea proxy accounts on Matic
+    */
+    function isApprovedForAll(
+        address _owner,
+        address _operator
+    ) public override view returns (bool isOperator) {
+        if (_operator == address(0x58807baD0B376efc12F5AD86aAc70E78ed67deaE)) {
+            return true;
+        }
+        
+        return ERC721.isApprovedForAll(_owner, _operator);
     }
 } 
