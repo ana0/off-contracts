@@ -15,6 +15,7 @@ contract Off is Ownable, ERC721, ContextMixin, NativeMetaTransaction, SignatureV
     mapping (uint256 => bool) public forSale;
     mapping (uint256 => string) public imageHash;
     mapping (uint256 => string) public secretImageHash;
+    mapping (uint256 => bool) public controllerNonces;
 
     modifier onlyOwnerOrController() {
         require((msg.sender == owner() || msg.sender == controller), "Must be owner or controller");
@@ -65,10 +66,13 @@ contract Off is Ownable, ERC721, ContextMixin, NativeMetaTransaction, SignatureV
         forSale[tokenId] = forSale_;
     }
 
-    function buy(uint256 tokenId, address to, string memory authorization) public payable {
-        require(forSale[tokenId]);
-        require(_exists(tokenId), "");
-        require(msg.value >= price);
+    function buy(uint256 tokenId, address to, uint256 issuingTime, uint256 nonce, bytes memory authorization) public payable {
+        require(forSale[tokenId], "Not for sale");
+        require(_exists(tokenId), "Invalid tokenId");
+        require(msg.value >= price, "Insufficient funds");
+        require(block.timestamp - issuingTime <= 1200, "Auth token expired");
+        require(!controllerNonces[nonce], "Invalid nonce");
+        require(verifyAuthorization(controller, to, tokenId, issuingTime, nonce, authorization), "Invalid auth token");
         forSale[tokenId] = false;
         _transfer(owner(), to, tokenId);
     }

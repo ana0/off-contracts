@@ -15,7 +15,7 @@ contract SignatureValidator {
         return keccak256(abi.encodePacked("\x19Ethereum Signed Message:\n32", _messageHash));
     }
 
-    function verify(
+    function verifyAuthorization(
         address _signer,
         address _to, uint256 _tokenId, uint256 _issuingTime, uint256 _nonce,
         bytes memory signature

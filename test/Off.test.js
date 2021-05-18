@@ -1,6 +1,7 @@
 const {
   BN,
   ZERO_ADDRESS,
+  timestamp,
 } = require('./helpers/constants');
 const {
   assertRevert,
@@ -12,13 +13,20 @@ require('chai')
   .use(require('chai-bn')(BN))
   .should();
 
-contract('Off', ([_, owner, attacker, controller, user]) => {
+contract('Off', ([_, owner, attacker, sendingController, user]) => {
   let off = null;
   const tokenId = 0;
   const secretImageHash = 'QmbLnKaAsUbCXx3JYtMTkgXAeAUx2TN8diuy6qFhwN1zE5';
   const imageHash = 'QmRfQakyz9mmKJE8BMQTZMm9QAWsiRp9oroGcyeKFyANid';
   const uri = 'uri';
   const baseUri = 'http://url.com/';
+  const signingController = web3.eth.accounts.create();
+  let nonce = 0;
+
+  const createAuthorization = (messageHash) => {
+    nonce += 1;
+    return web3.eth.accounts.sign(messageHash, signingController.privateKey).signature;
+  };
 
   beforeEach(async () => {
     off = await Off.new('off', 'OFF', web3.utils.toWei('35'), { from: owner });
@@ -34,12 +42,12 @@ contract('Off', ([_, owner, attacker, controller, user]) => {
   });
 
   it('owner can set controller', async () => {
-    await off.setController(controller, { from: owner });
-    (await off.controller()).should.be.equal(controller);
+    await off.setController(sendingController, { from: owner });
+    (await off.controller()).should.be.equal(sendingController);
   });
 
   it('attacker can not set controller', async () => {
-    await assertRevert(off.setController(controller, { from: attacker }));
+    await assertRevert(off.setController(sendingController, { from: attacker }));
   });
 
   it('owner can mint token', async () => {
@@ -123,10 +131,10 @@ contract('Off', ([_, owner, attacker, controller, user]) => {
 
   it('token getter returns correct info when token is unminted', async () => {
     const token = await off.getToken(tokenId);
-    token[0].should.be.equal("");
+    token[0].should.be.equal('');
     token[1].should.be.equal(false);
-    token[2].should.be.equal("");
-    token[3].should.be.equal("");
+    token[2].should.be.equal('');
+    token[3].should.be.equal('');
     token[4].should.be.equal(ZERO_ADDRESS);
   });
 
@@ -147,20 +155,20 @@ contract('Off', ([_, owner, attacker, controller, user]) => {
 
   it('controller can sell minted token, if for sale and controller set', async () => {
     await off.mint(tokenId, true, uri, secretImageHash, imageHash, { from: owner });
-    await off.setController(controller, { from: owner });
-    await off.sell(tokenId, user, { from: controller });
+    await off.setController(sendingController, { from: owner });
+    await off.sell(tokenId, user, { from: sendingController });
     (await off.ownerOf(tokenId)).should.be.equal(user);
   });
 
   it('controller can not sell minted token, if not for sale and controller set', async () => {
     await off.mint(tokenId, false, uri, secretImageHash, imageHash, { from: owner });
-    await off.setController(controller, { from: owner });
-    await assertRevert(off.sell(tokenId, user, { from: controller }));
+    await off.setController(sendingController, { from: owner });
+    await assertRevert(off.sell(tokenId, user, { from: sendingController }));
   });
 
   it('controller can not sell unminted token', async () => {
-    await off.setController(controller, { from: owner });
-    await assertRevert(off.sell(tokenId, user, { from: controller }));
+    await off.setController(sendingController, { from: owner });
+    await assertRevert(off.sell(tokenId, user, { from: sendingController }));
   });
 
   it('attacker can not minted token, if for sale', async () => {
@@ -178,37 +186,91 @@ contract('Off', ([_, owner, attacker, controller, user]) => {
   });
 
   it('user can buy minted token, if for sale', async () => {
+    await off.setController(signingController.address, { from: owner });
     await off.mint(tokenId, true, uri, secretImageHash, imageHash, { from: owner });
-    await off.buy(tokenId, user, { from: user, value: web3.utils.toWei('35') });
+    const issuingTime = timestamp();
+    const localNonce = nonce;
+    const msg = await off.getMessageHash(user, tokenId, issuingTime, nonce);
+
+    const auth = createAuthorization(msg);
+
+    await off.buy(tokenId, user, issuingTime, localNonce, auth, { from: user, value: web3.utils.toWei('35') });
     (await off.ownerOf(tokenId)).should.be.equal(user);
   });
 
   it('user can not buy minted token, if not for sale', async () => {
+    await off.setController(signingController.address, { from: owner });
     await off.mint(tokenId, false, uri, secretImageHash, imageHash, { from: owner });
-    await assertRevert(off.buy(tokenId, user, { from: user, value: web3.utils.toWei('35') }));
+
+    const issuingTime = timestamp();
+    const localNonce = nonce;
+    const msg = await off.getMessageHash(user, tokenId, issuingTime, nonce);
+
+    const auth = createAuthorization(msg);
+
+    await assertRevert(off.buy(tokenId, user, issuingTime, localNonce, auth, { from: user, value: web3.utils.toWei('35') }));
   });
 
   it('user can not buy unminted token', async () => {
-    await assertRevert(off.buy(tokenId, user, { from: user, value: web3.utils.toWei('35') }));
+    await off.setController(signingController.address, { from: owner });
+
+    const issuingTime = timestamp();
+    const localNonce = nonce;
+    const msg = await off.getMessageHash(user, tokenId, issuingTime, nonce);
+
+    const auth = createAuthorization(msg);
+
+    await assertRevert(off.buy(tokenId, user, issuingTime, localNonce, auth, { from: user, value: web3.utils.toWei('35') }));
   });
 
   it('user can not buy minted token, if for sale, when sending less than price', async () => {
+    await off.setController(signingController.address, { from: owner });
     await off.mint(tokenId, true, uri, secretImageHash, imageHash, { from: owner });
-    await assertRevert(off.buy(tokenId, user, { from: user, value: web3.utils.toWei('34') }));
+
+    const issuingTime = timestamp();
+    const localNonce = nonce;
+    const msg = await off.getMessageHash(user, tokenId, issuingTime, nonce);
+
+    const auth = createAuthorization(msg);
+
+    await assertRevert(off.buy(tokenId, user, issuingTime, localNonce, auth, { from: user, value: web3.utils.toWei('34') }));
   });
 
   it('user can not buy minted token, if not for sale, when sending less than price', async () => {
+    await off.setController(signingController.address, { from: owner });
     await off.mint(tokenId, false, uri, secretImageHash, imageHash, { from: owner });
-    await assertRevert(off.buy(tokenId, user, { from: user, value: web3.utils.toWei('34') }));
+
+    const issuingTime = timestamp();
+    const localNonce = nonce;
+    const msg = await off.getMessageHash(user, tokenId, issuingTime, nonce);
+
+    const auth = createAuthorization(msg);
+
+    await assertRevert(off.buy(tokenId, user, issuingTime, localNonce, auth, { from: user, value: web3.utils.toWei('34') }));
   });
 
   it('user can not buy unminted token, when sending less than price', async () => {
-    await assertRevert(off.buy(tokenId, user, { from: user, value: web3.utils.toWei('34') }));
+    await off.setController(signingController.address, { from: owner });
+    const issuingTime = timestamp();
+    const localNonce = nonce;
+    const msg = await off.getMessageHash(user, tokenId, issuingTime, nonce);
+
+    const auth = createAuthorization(msg);
+
+    await assertRevert(off.buy(tokenId, user, issuingTime, localNonce, auth, { from: user, value: web3.utils.toWei('34') }));
   });
 
   it('user buying token leaves eth in contract', async () => {
+    await off.setController(signingController.address, { from: owner });
     await off.mint(tokenId, true, uri, secretImageHash, imageHash, { from: owner });
-    await off.buy(tokenId, user, { from: user, value: web3.utils.toWei('35') });
+
+    const issuingTime = timestamp();
+    const localNonce = nonce;
+    const msg = await off.getMessageHash(user, tokenId, issuingTime, nonce);
+
+    const auth = createAuthorization(msg);
+
+    await off.buy(tokenId, user, issuingTime, localNonce, auth, { from: user, value: web3.utils.toWei('35') });
     (await web3.eth.getBalance(off.address)).should.be.equal(web3.utils.toWei('35'));
   });
 });
