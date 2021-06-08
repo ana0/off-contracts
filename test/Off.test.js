@@ -154,19 +154,28 @@ contract('Off', ([_, owner, attacker, sendingController, user]) => {
   });
 
   it('controller can sell minted token, if for sale and controller set', async () => {
+    await off.setControllerCanSell(true, { from: owner });
     await off.mint(tokenId, true, uri, secretImageHash, imageHash, { from: owner });
     await off.setController(sendingController, { from: owner });
     await off.sell(tokenId, user, { from: sendingController });
     (await off.ownerOf(tokenId)).should.be.equal(user);
   });
 
+  it('controller cant sell minted token without permissions', async () => {
+    await off.mint(tokenId, true, uri, secretImageHash, imageHash, { from: owner });
+    await off.setController(sendingController, { from: owner });
+    await assertRevert(off.sell(tokenId, user, { from: sendingController }));
+  });
+
   it('controller can not sell minted token, if not for sale and controller set', async () => {
+    await off.setControllerCanSell(true, { from: owner });
     await off.mint(tokenId, false, uri, secretImageHash, imageHash, { from: owner });
     await off.setController(sendingController, { from: owner });
     await assertRevert(off.sell(tokenId, user, { from: sendingController }));
   });
 
   it('controller can not sell unminted token', async () => {
+    await off.setControllerCanSell(true, { from: owner });
     await off.setController(sendingController, { from: owner });
     await assertRevert(off.sell(tokenId, user, { from: sendingController }));
   });

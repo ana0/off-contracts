@@ -11,6 +11,7 @@ contract Off is Ownable, ERC721, ContextMixin, NativeMetaTransaction, SignatureV
     address public controller;
     uint256 public price;
     string public contractURI;
+    bool controllerCanSell;
 
     mapping (uint256 => bool) public forSale;
     mapping (uint256 => string) public imageHash;
@@ -33,6 +34,10 @@ contract Off is Ownable, ERC721, ContextMixin, NativeMetaTransaction, SignatureV
 
     function setController(address controller_) public onlyOwner {
         controller = controller_;
+    }
+
+    function setControllerCanSell(bool canSell_) public onlyOwner {
+        controllerCanSell = canSell_;
     }
 
     function setPrice(uint256 price_) public onlyOwner {
@@ -78,6 +83,9 @@ contract Off is Ownable, ERC721, ContextMixin, NativeMetaTransaction, SignatureV
     }
 
     function sell(uint256 tokenId, address to) public onlyOwnerOrController {
+        if (msg.sender == controller) {
+            require(controllerCanSell);
+        }
         require(forSale[tokenId]);
         require(_exists(tokenId), "");
         forSale[tokenId] = false;
