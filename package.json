@@ -1,6 +1,6 @@
 {
   "name": "off-contracts",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Contracts for Off",
   "main": "truffle.js",
   "scripts": {
