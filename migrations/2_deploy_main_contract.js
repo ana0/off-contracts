@@ -10,7 +10,7 @@ module.exports = function (deployer) {
       await off.mint(
         i,
         true,
-        edition.off[i].tokenUri,
+        edition.off[i].token_uri,
         edition.off[i].public_hash,
         edition.off[i].public_hash,
       );
@@ -18,7 +18,7 @@ module.exports = function (deployer) {
       await off.mint(
         i,
         true,
-        edition.off[i].tokenUri,
+        edition.off[i].token_uri,
         edition.off[i].public_hash,
         edition.off[i].public_hash,
       );
@@ -26,7 +26,7 @@ module.exports = function (deployer) {
       await off.mint(
         i,
         true,
-        edition.off[i].tokenUri,
+        edition.off[i].token_uri,
         edition.off[i].public_hash,
         edition.off[i].public_hash,
       );
@@ -34,7 +34,7 @@ module.exports = function (deployer) {
       await off.mint(
         i,
         true,
-        edition.off[i].tokenUri,
+        edition.off[i].token_uri,
         edition.off[i].public_hash,
         edition.off[i].public_hash,
       );
@@ -42,7 +42,7 @@ module.exports = function (deployer) {
       await off.mint(
         i,
         true,
-        edition.off[i].tokenUri,
+        edition.off[i].token_uri,
         edition.off[i].public_hash,
         edition.off[i].public_hash,
       );
@@ -50,7 +50,39 @@ module.exports = function (deployer) {
       await off.mint(
         i,
         true,
-        edition.off[i].tokenUri,
+        edition.off[i].token_uri,
+        edition.off[i].public_hash,
+        edition.off[i].public_hash,
+      );
+      i += 1;
+      await off.mint(
+        i,
+        true,
+        edition.off[i].token_uri,
+        edition.off[i].public_hash,
+        edition.off[i].public_hash,
+      );
+      i += 1;
+      await off.mint(
+        i,
+        true,
+        edition.off[i].token_uri,
+        edition.off[i].public_hash,
+        edition.off[i].public_hash,
+      );
+      i += 1;
+      await off.mint(
+        i,
+        true,
+        edition.off[i].token_uri,
+        edition.off[i].public_hash,
+        edition.off[i].public_hash,
+      );
+      i += 1;
+      await off.mint(
+        i,
+        true,
+        edition.off[i].token_uri,
         edition.off[i].public_hash,
         edition.off[i].public_hash,
       );
