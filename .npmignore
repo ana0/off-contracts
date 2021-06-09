@@ -7,3 +7,4 @@ scripts/*
 .eslintrc.json
 truffle-config.js
 edition.json
+utils.js

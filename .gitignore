@@ -3,3 +3,4 @@ build/*
 *.txt
 .env
 edition.json
+utils.js

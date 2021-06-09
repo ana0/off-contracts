@@ -9,48 +9,48 @@ module.exports = function (deployer) {
       let i = 1;
       await off.mint(
         i,
-        false,
-        edition.off[i].uri,
+        true,
+        edition.off[i].tokenUri,
         edition.off[i].public_hash,
         edition.off[i].public_hash,
       );
       i += 1;
       await off.mint(
         i,
-        false,
-        edition.off[i].uri,
+        true,
+        edition.off[i].tokenUri,
         edition.off[i].public_hash,
         edition.off[i].public_hash,
       );
       i += 1;
       await off.mint(
         i,
-        false,
-        edition.off[i].uri,
+        true,
+        edition.off[i].tokenUri,
         edition.off[i].public_hash,
         edition.off[i].public_hash,
       );
       i += 1;
       await off.mint(
         i,
-        false,
-        edition.off[i].uri,
+        true,
+        edition.off[i].tokenUri,
         edition.off[i].public_hash,
         edition.off[i].public_hash,
       );
       i += 1;
       await off.mint(
         i,
-        false,
-        edition.off[i].uri,
+        true,
+        edition.off[i].tokenUri,
         edition.off[i].public_hash,
         edition.off[i].public_hash,
       );
       i += 1;
       await off.mint(
         i,
-        false,
-        edition.off[i].uri,
+        true,
+        edition.off[i].tokenUri,
         edition.off[i].public_hash,
         edition.off[i].public_hash,
       );
