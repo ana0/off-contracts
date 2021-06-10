@@ -19,6 +19,16 @@ module.exports = {
       gas: 12487794,
       gasPrice: 1000000000,
     },
+    matic: {
+      provider: () => new HDWalletProvider(
+        process.env.MNEMONIC,
+        'https://rpc-mainnet.matic.network',
+      ),
+      network_id: 137,
+      confirmations: 2,
+      timeoutBlocks: 200,
+      skipDryRun: false,
+    },
   },
 
   // Set default mocha options here, use special reporters etc.
@@ -31,13 +41,13 @@ module.exports = {
     solc: {
       version: '0.7.6', // Fetch exact version from solc-bin (default: truffle's version)
       // docker: true,        // Use "0.5.1" you've installed locally with docker (default: false)
-      settings: {          // See the solidity docs for advice about optimization and evmVersion
-       optimizer: {
-         enabled: true,
-         runs: 200
-       },
+      //settings: { // See the solidity docs for advice about optimization and evmVersion
+        //optimizer: {
+          //enabled: true,
+          //runs: 200,
+        //},
       //  evmVersion: "byzantium"
-      }
+      //},
     },
   },
   db: {

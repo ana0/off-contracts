@@ -30,6 +30,7 @@ contract Off is Ownable, ERC721, ContextMixin, NativeMetaTransaction, SignatureV
 
     constructor (string memory name_, string memory symbol_, uint256 price_) Ownable() ERC721(name_, symbol_) {
         price = price_;
+        _initializeEIP712(name_);
     }
 
     function setController(address controller_) public onlyOwner {

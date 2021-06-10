@@ -1,1531 +1,1531 @@
 {"off": [{
     "name": "Acer Chromebook",
     "public_hash": "QmaNEWataLJrRPr6WF7yqgaj4yT6VQYufBnM15HVXepwCh",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Acer Chromebook.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Acer Chromebook.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Acer Chromebook.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Acer Chromebook.json",
     "token_id": 1
 }, {
     "name": "Acer Iconia Tab A",
     "public_hash": "QmbZespFjD7pgquV3KTy1Cj64XgohddHxXM1W841GfwnWV",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Acer Iconia Tab A.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Acer Iconia Tab A.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Acer Iconia Tab A.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Acer Iconia Tab A.json",
     "token_id": 2
 }, {
     "name": "Acer Picasso",
     "public_hash": "QmT6eGEpLZfnVpjhbVWZuQCBMD4Q6MbCknYiq8iNynjsKL",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Acer Picasso.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Acer Picasso.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Acer Picasso.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Acer Picasso.json",
     "token_id": 3
 }, {
     "name": "Acer S277HK",
     "public_hash": "QmWs3FzjyXz9HZGWsKGiHGJGTf3QCePAagSGgbDa6j665r",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Acer S277HK.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Acer S277HK.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Acer S277HK.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Acer S277HK.json",
     "token_id": 4
 }, {
     "name": "Acer Switch 10 E",
     "public_hash": "QmbZespFjD7pgquV3KTy1Cj64XgohddHxXM1W841GfwnWV",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Acer Switch 10 E.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Acer Switch 10 E.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Acer Switch 10 E.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Acer Switch 10 E.json",
     "token_id": 5
 }, {
     "name": "Ainol Novo 10 Hero",
     "public_hash": "QmbZespFjD7pgquV3KTy1Cj64XgohddHxXM1W841GfwnWV",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Ainol Novo 10 Hero.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Ainol Novo 10 Hero.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Ainol Novo 10 Hero.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Ainol Novo 10 Hero.json",
     "token_id": 6
 }, {
     "name": "Ainol Novo 7 Crystal",
     "public_hash": "QmdWEqHmEZYh9JxUkmvgkHJnG1KZU6aqowimoK3kY5TG1V",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Ainol Novo 7 Crystal.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Ainol Novo 7 Crystal.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Ainol Novo 7 Crystal.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Ainol Novo 7 Crystal.json",
     "token_id": 7
 }, {
     "name": "Ainol Novo 9 Spark",
     "public_hash": "QmebnEXqpJRoFzrdahWX6UejK7HGQs6pwDp2u7k8jftosz",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Ainol Novo 9 Spark.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Ainol Novo 9 Spark.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Ainol Novo 9 Spark.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Ainol Novo 9 Spark.json",
     "token_id": 8
 }, {
     "name": "Alcatel One Touch Idol Ultra",
     "public_hash": "QmayCcwnHTnazKNuEApHsv8Lgb6bQu7brfPWmJFsdykkAA",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Alcatel One Touch Idol Ultra.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Alcatel One Touch Idol Ultra.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Alcatel One Touch Idol Ultra.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Alcatel One Touch Idol Ultra.json",
     "token_id": 9
 }, {
     "name": "Alcatel One Touch Ultra 995",
     "public_hash": "QmP6hKzfdcBU1U8tv7jHMiF7aQEtWEPb4vKbWhgY1nQbGj",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Alcatel One Touch Ultra 995.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Alcatel One Touch Ultra 995.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Alcatel One Touch Ultra 995.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Alcatel One Touch Ultra 995.json",
     "token_id": 10
 }, {
     "name": "Amazon Fire HD 10",
     "public_hash": "QmbZespFjD7pgquV3KTy1Cj64XgohddHxXM1W841GfwnWV",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Amazon Fire HD 10.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Amazon Fire HD 10.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Amazon Fire HD 10.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Amazon Fire HD 10.json",
     "token_id": 11
 }, {
     "name": "Amazon Fire HD 6",
     "public_hash": "QmbZespFjD7pgquV3KTy1Cj64XgohddHxXM1W841GfwnWV",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Amazon Fire HD 6.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Amazon Fire HD 6.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Amazon Fire HD 6.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Amazon Fire HD 6.json",
     "token_id": 12
 }, {
     "name": "Amazon Fire HD 8",
     "public_hash": "QmbZespFjD7pgquV3KTy1Cj64XgohddHxXM1W841GfwnWV",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Amazon Fire HD 8.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Amazon Fire HD 8.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Amazon Fire HD 8.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Amazon Fire HD 8.json",
     "token_id": 13
 }, {
     "name": "Amazon Fire",
     "public_hash": "QmdWEqHmEZYh9JxUkmvgkHJnG1KZU6aqowimoK3kY5TG1V",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Amazon Fire.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Amazon Fire.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Amazon Fire.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Amazon Fire.json",
     "token_id": 14
 }, {
     "name": "Amazon Kindle Fire 1st Gen",
     "public_hash": "Qmd79nHUErvhiYC89ZFccsG3y36msf5M1GLHcvaYbHjoj3",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Amazon Kindle Fire 1st Gen.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Amazon Kindle Fire 1st Gen.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Amazon Kindle Fire 1st Gen.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Amazon Kindle Fire 1st Gen.json",
     "token_id": 15
 }, {
     "name": "Amazon Kindle Fire HD 7",
     "public_hash": "QmdcRqWp78HWeqGZ9uBeZPBGgiG3UnQdbFF77HS6frBfYx",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Amazon Kindle Fire HD 7.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Amazon Kindle Fire HD 7.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Amazon Kindle Fire HD 7.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Amazon Kindle Fire HD 7.json",
     "token_id": 16
 }, {
     "name": "Amazon Kindle Fire HD 8.9",
     "public_hash": "Qmad9BkwXzsBWjHNSt9wiJhBB5PvQyh7pMhM1d9G5ZRwpC",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Amazon Kindle Fire HD 8.9.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Amazon Kindle Fire HD 8.9.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Amazon Kindle Fire HD 8.9.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Amazon Kindle Fire HD 8.9.json",
     "token_id": 17
 }, {
     "name": "Apple Cinema Display 30",
     "public_hash": "QmfYYq9xuV7pjUtr6Rc2dfyJ3Hmm29FHWGLGBqfcrTvcKr",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple Cinema Display 30.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Apple Cinema Display 30.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple Cinema Display 30.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Apple Cinema Display 30.json",
     "token_id": 18
 }, {
     "name": "Apple MacBook 12-inch",
     "public_hash": "Qmc1zBbdf85ZtPEV2sTzPjxFoLm28HFE6vTZhUYhWZ8GE8",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple MacBook 12-inch.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Apple MacBook 12-inch.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple MacBook 12-inch.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Apple MacBook 12-inch.json",
     "token_id": 19
 }, {
     "name": "Apple MacBook Air 11-inch (Late 2010 - Mid 2012)",
     "public_hash": "QmaNEWataLJrRPr6WF7yqgaj4yT6VQYufBnM15HVXepwCh",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple MacBook Air 11-inch (Late 2010 - Mid 2012).png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Apple MacBook Air 11-inch (Late 2010 - Mid 2012).json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple MacBook Air 11-inch (Late 2010 - Mid 2012).png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Apple MacBook Air 11-inch (Late 2010 - Mid 2012).json",
     "token_id": 20
 }, {
     "name": "Apple MacBook Air 11-inch",
     "public_hash": "QmaNEWataLJrRPr6WF7yqgaj4yT6VQYufBnM15HVXepwCh",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple MacBook Air 11-inch.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Apple MacBook Air 11-inch.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple MacBook Air 11-inch.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Apple MacBook Air 11-inch.json",
     "token_id": 21
 }, {
     "name": "Apple MacBook Air 13-inch (Late 2010 - Mid 2012)",
     "public_hash": "QmNLrz3dTvqnCaGCoDwJ9XFKoQEhSTkLQeFe4rjvoF43zV",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple MacBook Air 13-inch (Late 2010 - Mid 2012).png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Apple MacBook Air 13-inch (Late 2010 - Mid 2012).json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple MacBook Air 13-inch (Late 2010 - Mid 2012).png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Apple MacBook Air 13-inch (Late 2010 - Mid 2012).json",
     "token_id": 22
 }, {
     "name": "Apple MacBook Air 13-inch",
     "public_hash": "QmNLrz3dTvqnCaGCoDwJ9XFKoQEhSTkLQeFe4rjvoF43zV",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple MacBook Air 13-inch.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Apple MacBook Air 13-inch.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple MacBook Air 13-inch.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Apple MacBook Air 13-inch.json",
     "token_id": 23
 }, {
     "name": "Apple MacBook Pro 13-inch (Mid 2009 - Mid 2012)",
     "public_hash": "QmbZespFjD7pgquV3KTy1Cj64XgohddHxXM1W841GfwnWV",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple MacBook Pro 13-inch (Mid 2009 - Mid 2012).png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Apple MacBook Pro 13-inch (Mid 2009 - Mid 2012).json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple MacBook Pro 13-inch (Mid 2009 - Mid 2012).png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Apple MacBook Pro 13-inch (Mid 2009 - Mid 2012).json",
     "token_id": 24
 }, {
     "name": "Apple MacBook Pro 13-inch",
     "public_hash": "QmfYYq9xuV7pjUtr6Rc2dfyJ3Hmm29FHWGLGBqfcrTvcKr",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple MacBook Pro 13-inch.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Apple MacBook Pro 13-inch.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple MacBook Pro 13-inch.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Apple MacBook Pro 13-inch.json",
     "token_id": 25
 }, {
     "name": "Apple MacBook Pro 15-inch (Hi-Res screen)",
     "public_hash": "QmQUHGffTiPKQTeXCuY6rs71pDa6VHkNCSzgdFaTowdoAQ",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple MacBook Pro 15-inch (Hi-Res screen).png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Apple MacBook Pro 15-inch (Hi-Res screen).json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple MacBook Pro 15-inch (Hi-Res screen).png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Apple MacBook Pro 15-inch (Hi-Res screen).json",
     "token_id": 26
 }, {
     "name": "Apple MacBook Pro 15-inch",
     "public_hash": "QmP4nVmaWGGgVKDJAaF1c6HMvat4eJTnd3ea7ZzsJG75SB",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple MacBook Pro 15-inch.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Apple MacBook Pro 15-inch.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple MacBook Pro 15-inch.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Apple MacBook Pro 15-inch.json",
     "token_id": 27
 }, {
     "name": "Apple Thunderbolt Display 27",
     "public_hash": "QmRPpfQRjZXNCKWWsPE6eytAk1FSK3LT7fNYZ3oQpRNb6z",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple Thunderbolt Display 27.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Apple Thunderbolt Display 27.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple Thunderbolt Display 27.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Apple Thunderbolt Display 27.json",
     "token_id": 28
 }, {
     "name": "Apple iMac 21.5-inch (Late 2009 - Late 2012)",
     "public_hash": "QmdVjiEXFWF3aFRDKi2Gh1X1Y7DhSuvpkrwwNBzxawpf9U",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iMac 21.5-inch (Late 2009 - Late 2012).png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Apple iMac 21.5-inch (Late 2009 - Late 2012).json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iMac 21.5-inch (Late 2009 - Late 2012).png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Apple iMac 21.5-inch (Late 2009 - Late 2012).json",
     "token_id": 29
 }, {
     "name": "Apple iMac 27-inch (Late 2009 - Late 2012)",
     "public_hash": "QmRPpfQRjZXNCKWWsPE6eytAk1FSK3LT7fNYZ3oQpRNb6z",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iMac 27-inch (Late 2009 - Late 2012).png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Apple iMac 27-inch (Late 2009 - Late 2012).json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iMac 27-inch (Late 2009 - Late 2012).png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Apple iMac 27-inch (Late 2009 - Late 2012).json",
     "token_id": 30
 }, {
     "name": "Apple iPad 1 and 2",
     "public_hash": "QmcxTsRhSBmxZZkGqpXoPjVMSivEiDpuLB18fjZ52v2yx4",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPad 1 and 2.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Apple iPad 1 and 2.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPad 1 and 2.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Apple iPad 1 and 2.json",
     "token_id": 31
 }, {
     "name": "Apple iPad 10.2 (2020)",
     "public_hash": "QmRaaQUpQB4MG6mVHEuveDGhMoAjGF6HvUzK8M9dNymXWu",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPad 10.2 (2020).png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Apple iPad 10.2 (2020).json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPad 10.2 (2020).png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Apple iPad 10.2 (2020).json",
     "token_id": 32
 }, {
     "name": "Apple iPad 3 and 4",
     "public_hash": "QmS1UiHt6jA5MdBbvfn98io9sRjGAjR5wpLDV28LVTX4Ya",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPad 3 and 4.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Apple iPad 3 and 4.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPad 3 and 4.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Apple iPad 3 and 4.json",
     "token_id": 33
 }, {
     "name": "Apple iPad Air (2019)",
     "public_hash": "QmXby1m5dqinyQLqR6TQ5SqotsXkeTZd4s2wk7ynZEqBup",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPad Air (2019).png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Apple iPad Air (2019).json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPad Air (2019).png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Apple iPad Air (2019).json",
     "token_id": 34
 }, {
     "name": "Apple iPad Air (2020)",
     "public_hash": "QmcwhUvjjZnbs1tqELxdnAmjwgXTFhEEXPYqb9Eyh7S7sw",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPad Air (2020).png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Apple iPad Air (2020).json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPad Air (2020).png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Apple iPad Air (2020).json",
     "token_id": 35
 }, {
     "name": "Apple iPad Air 2",
     "public_hash": "QmebnEXqpJRoFzrdahWX6UejK7HGQs6pwDp2u7k8jftosz",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPad Air 2.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Apple iPad Air 2.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPad Air 2.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Apple iPad Air 2.json",
     "token_id": 36
 }, {
     "name": "Apple iPad Air",
     "public_hash": "QmebnEXqpJRoFzrdahWX6UejK7HGQs6pwDp2u7k8jftosz",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPad Air.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Apple iPad Air.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPad Air.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Apple iPad Air.json",
     "token_id": 37
 }, {
     "name": "Apple iPad Mini (2019)",
     "public_hash": "QmebnEXqpJRoFzrdahWX6UejK7HGQs6pwDp2u7k8jftosz",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPad Mini (2019).png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Apple iPad Mini (2019).json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPad Mini (2019).png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Apple iPad Mini (2019).json",
     "token_id": 38
 }, {
     "name": "Apple iPad Mini 2",
     "public_hash": "QmebnEXqpJRoFzrdahWX6UejK7HGQs6pwDp2u7k8jftosz",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPad Mini 2.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Apple iPad Mini 2.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPad Mini 2.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Apple iPad Mini 2.json",
     "token_id": 39
 }, {
     "name": "Apple iPad Mini 4",
     "public_hash": "QmebnEXqpJRoFzrdahWX6UejK7HGQs6pwDp2u7k8jftosz",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPad Mini 4.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Apple iPad Mini 4.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPad Mini 4.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Apple iPad Mini 4.json",
     "token_id": 40
 }, {
     "name": "Apple iPad Mini",
     "public_hash": "QmcxTsRhSBmxZZkGqpXoPjVMSivEiDpuLB18fjZ52v2yx4",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPad Mini.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Apple iPad Mini.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPad Mini.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Apple iPad Mini.json",
     "token_id": 41
 }, {
     "name": "Apple iPad Pro 10.5",
     "public_hash": "QmXby1m5dqinyQLqR6TQ5SqotsXkeTZd4s2wk7ynZEqBup",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPad Pro 10.5.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Apple iPad Pro 10.5.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPad Pro 10.5.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Apple iPad Pro 10.5.json",
     "token_id": 42
 }, {
     "name": "Apple iPad Pro 11",
     "public_hash": "QmTYGevH7VbXixtGzjadUNQXwtCgwU5S91r9fX3FuREMUF",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPad Pro 11.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Apple iPad Pro 11.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPad Pro 11.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Apple iPad Pro 11.json",
     "token_id": 43
 }, {
     "name": "Apple iPad Pro 12.9",
     "public_hash": "QmWcfS4D8oEyap4LKTJKPTtKheArQbphyg786UEa5VrL7r",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPad Pro 12.9.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Apple iPad Pro 12.9.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPad Pro 12.9.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Apple iPad Pro 12.9.json",
     "token_id": 44
 }, {
     "name": "Apple iPad Pro 9.7",
     "public_hash": "QmebnEXqpJRoFzrdahWX6UejK7HGQs6pwDp2u7k8jftosz",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPad Pro 9.7.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Apple iPad Pro 9.7.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPad Pro 9.7.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Apple iPad Pro 9.7.json",
     "token_id": 45
 }, {
     "name": "Apple iPad Pro",
     "public_hash": "QmWcfS4D8oEyap4LKTJKPTtKheArQbphyg786UEa5VrL7r",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPad Pro.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Apple iPad Pro.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPad Pro.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Apple iPad Pro.json",
     "token_id": 46
 }, {
     "name": "Apple iPhone 11 Pro Max",
     "public_hash": "QmRRw7jmfo2ghv4qX4whxSbV17tCuG1KsifGW8YiUiUnQ2",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPhone 11 Pro Max.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Apple iPhone 11 Pro Max.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPhone 11 Pro Max.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Apple iPhone 11 Pro Max.json",
     "token_id": 47
 }, {
     "name": "Apple iPhone 11 Pro",
     "public_hash": "QmfDVJg2n6pcxdRrcuMJefH7TM84pTN64gidSCLTpRzYQu",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPhone 11 Pro.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Apple iPhone 11 Pro.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPhone 11 Pro.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Apple iPhone 11 Pro.json",
     "token_id": 48
 }, {
     "name": "Apple iPhone 11",
     "public_hash": "QmbLpjQhvUroHcwK9E2S7RDLaqPE2BCcdpNkk6SAGGk8GT",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPhone 11.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Apple iPhone 11.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPhone 11.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Apple iPhone 11.json",
     "token_id": 49
 }, {
     "name": "Apple iPhone 12 Mini",
     "public_hash": "QmarspuWomDVk6eL1EtLL6cUm5ha31WTtDiYpmwcXdw5Aj",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPhone 12 Mini.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Apple iPhone 12 Mini.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPhone 12 Mini.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Apple iPhone 12 Mini.json",
     "token_id": 50
 }, {
     "name": "Apple iPhone 12 Pro Max",
     "public_hash": "Qma88SgsR88LrjKRs7cAYnweUah5hq5y3tqBniZZ1Pjuwe",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPhone 12 Pro Max.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Apple iPhone 12 Pro Max.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPhone 12 Pro Max.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Apple iPhone 12 Pro Max.json",
     "token_id": 51
 }, {
     "name": "Apple iPhone 12 Pro",
     "public_hash": "QmQ4nwJrN8MMBtjDv1Nt4eZm4HiBVwUJ6wPc7tJArEcNLy",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPhone 12 Pro.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Apple iPhone 12 Pro.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPhone 12 Pro.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Apple iPhone 12 Pro.json",
     "token_id": 52
 }, {
     "name": "Apple iPhone 12",
     "public_hash": "QmQ4nwJrN8MMBtjDv1Nt4eZm4HiBVwUJ6wPc7tJArEcNLy",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPhone 12.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Apple iPhone 12.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPhone 12.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Apple iPhone 12.json",
     "token_id": 53
 }, {
     "name": "Apple iPhone 3GS",
     "public_hash": "QmRygjVMfLFbQGNpeAemLbUiTkULF3JE19ycWKoFYtJHJP",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPhone 3GS.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Apple iPhone 3GS.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPhone 3GS.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Apple iPhone 3GS.json",
     "token_id": 54
 }, {
     "name": "Apple iPhone 4 (4, 4S)",
     "public_hash": "QmeJHqqapvR9iZUJVAbJ7ufyyJhbXAwhXhLX1zhiUJ6bzH",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPhone 4 (4, 4S).png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Apple iPhone 4 (4, 4S).json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPhone 4 (4, 4S).png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Apple iPhone 4 (4, 4S).json",
     "token_id": 55
 }, {
     "name": "Apple iPhone 5 (5c, 5s)",
     "public_hash": "QmRMwkU1L7a9jVQf4xnnDgCgeKf7RPVdrsfQxDfLs8z82t",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPhone 5 (5c, 5s).png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Apple iPhone 5 (5c, 5s).json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPhone 5 (5c, 5s).png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Apple iPhone 5 (5c, 5s).json",
     "token_id": 56
 }, {
     "name": "Apple iPhone 6 Plus",
     "public_hash": "QmenYsrttr1cbvew2btCqzhXxhNqjVvVPRnPVd8SQZhfxY",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPhone 6 Plus.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Apple iPhone 6 Plus.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPhone 6 Plus.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Apple iPhone 6 Plus.json",
     "token_id": 57
 }, {
     "name": "Apple iPhone 6",
     "public_hash": "QmbAJ3aHim2BfF3MX3wXr5wZKLhmeMiYekfv85uLvzBfqq",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPhone 6.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Apple iPhone 6.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPhone 6.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Apple iPhone 6.json",
     "token_id": 58
 }, {
     "name": "Apple iPhone 6s",
     "public_hash": "QmbAJ3aHim2BfF3MX3wXr5wZKLhmeMiYekfv85uLvzBfqq",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPhone 6s.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Apple iPhone 6s.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPhone 6s.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Apple iPhone 6s.json",
     "token_id": 59
 }, {
     "name": "Apple iPhone 7 Plus",
     "public_hash": "QmenYsrttr1cbvew2btCqzhXxhNqjVvVPRnPVd8SQZhfxY",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPhone 7 Plus.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Apple iPhone 7 Plus.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPhone 7 Plus.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Apple iPhone 7 Plus.json",
     "token_id": 60
 }, {
     "name": "Apple iPhone 7",
     "public_hash": "QmbAJ3aHim2BfF3MX3wXr5wZKLhmeMiYekfv85uLvzBfqq",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPhone 7.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Apple iPhone 7.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPhone 7.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Apple iPhone 7.json",
     "token_id": 61
 }, {
     "name": "Apple iPhone 8 Plus",
     "public_hash": "QmenYsrttr1cbvew2btCqzhXxhNqjVvVPRnPVd8SQZhfxY",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPhone 8 Plus.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Apple iPhone 8 Plus.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPhone 8 Plus.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Apple iPhone 8 Plus.json",
     "token_id": 62
 }, {
     "name": "Apple iPhone 8",
     "public_hash": "QmbAJ3aHim2BfF3MX3wXr5wZKLhmeMiYekfv85uLvzBfqq",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPhone 8.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Apple iPhone 8.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPhone 8.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Apple iPhone 8.json",
     "token_id": 63
 }, {
     "name": "Apple iPhone SE 2020",
     "public_hash": "QmbAJ3aHim2BfF3MX3wXr5wZKLhmeMiYekfv85uLvzBfqq",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPhone SE 2020.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Apple iPhone SE 2020.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPhone SE 2020.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Apple iPhone SE 2020.json",
     "token_id": 64
 }, {
     "name": "Apple iPhone SE",
     "public_hash": "QmRMwkU1L7a9jVQf4xnnDgCgeKf7RPVdrsfQxDfLs8z82t",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPhone SE.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Apple iPhone SE.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPhone SE.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Apple iPhone SE.json",
     "token_id": 65
 }, {
     "name": "Apple iPhone X",
     "public_hash": "QmfDVJg2n6pcxdRrcuMJefH7TM84pTN64gidSCLTpRzYQu",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPhone X.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Apple iPhone X.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPhone X.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Apple iPhone X.json",
     "token_id": 66
 }, {
     "name": "Apple iPhone XR",
     "public_hash": "QmbLpjQhvUroHcwK9E2S7RDLaqPE2BCcdpNkk6SAGGk8GT",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPhone XR.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Apple iPhone XR.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPhone XR.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Apple iPhone XR.json",
     "token_id": 67
 }, {
     "name": "Apple iPhone XS Max",
     "public_hash": "QmRRw7jmfo2ghv4qX4whxSbV17tCuG1KsifGW8YiUiUnQ2",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPhone XS Max.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Apple iPhone XS Max.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPhone XS Max.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Apple iPhone XS Max.json",
     "token_id": 68
 }, {
     "name": "Apple iPhone XS",
     "public_hash": "QmfDVJg2n6pcxdRrcuMJefH7TM84pTN64gidSCLTpRzYQu",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPhone XS.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Apple iPhone XS.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Apple iPhone XS.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Apple iPhone XS.json",
     "token_id": 69
 }, {
     "name": "Asus Chrombook Flip",
     "public_hash": "QmbZespFjD7pgquV3KTy1Cj64XgohddHxXM1W841GfwnWV",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Asus Chrombook Flip.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Asus Chrombook Flip.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Asus Chrombook Flip.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Asus Chrombook Flip.json",
     "token_id": 70
 }, {
     "name": "Asus K55N-DS81 15.6 in",
     "public_hash": "QmaNEWataLJrRPr6WF7yqgaj4yT6VQYufBnM15HVXepwCh",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Asus K55N-DS81 15.6 in.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Asus K55N-DS81 15.6 in.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Asus K55N-DS81 15.6 in.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Asus K55N-DS81 15.6 in.json",
     "token_id": 71
 }, {
     "name": "Asus Nexus 7 (2013)",
     "public_hash": "Qmad9BkwXzsBWjHNSt9wiJhBB5PvQyh7pMhM1d9G5ZRwpC",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Asus Nexus 7 (2013).png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Asus Nexus 7 (2013).json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Asus Nexus 7 (2013).png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Asus Nexus 7 (2013).json",
     "token_id": 72
 }, {
     "name": "Asus Nexus 7",
     "public_hash": "QmbZespFjD7pgquV3KTy1Cj64XgohddHxXM1W841GfwnWV",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Asus Nexus 7.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Asus Nexus 7.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Asus Nexus 7.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Asus Nexus 7.json",
     "token_id": 73
 }, {
     "name": "Asus PB287Q",
     "public_hash": "QmWs3FzjyXz9HZGWsKGiHGJGTf3QCePAagSGgbDa6j665r",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Asus PB287Q.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Asus PB287Q.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Asus PB287Q.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Asus PB287Q.json",
     "token_id": 74
 }, {
     "name": "Asus ROG G751JL-BSI7T28",
     "public_hash": "Qmb2HKpLXaq6et8PmdiBh2oLzbaj6keJ99a97X4hHpRy91",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Asus ROG G751JL-BSI7T28.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Asus ROG G751JL-BSI7T28.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Asus ROG G751JL-BSI7T28.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Asus ROG G751JL-BSI7T28.json",
     "token_id": 75
 }, {
     "name": "Asus Transformer",
     "public_hash": "Qmad9BkwXzsBWjHNSt9wiJhBB5PvQyh7pMhM1d9G5ZRwpC",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Asus Transformer.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Asus Transformer.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Asus Transformer.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Asus Transformer.json",
     "token_id": 76
 }, {
     "name": "Asus ZenBook UX305",
     "public_hash": "Qmb2HKpLXaq6et8PmdiBh2oLzbaj6keJ99a97X4hHpRy91",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Asus ZenBook UX305.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Asus ZenBook UX305.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Asus ZenBook UX305.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Asus ZenBook UX305.json",
     "token_id": 77
 }, {
     "name": "Asus ZenPad 8.0",
     "public_hash": "QmbZespFjD7pgquV3KTy1Cj64XgohddHxXM1W841GfwnWV",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Asus ZenPad 8.0.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Asus ZenPad 8.0.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Asus ZenPad 8.0.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Asus ZenPad 8.0.json",
     "token_id": 78
 }, {
     "name": "Asus Zenfone 2 Laser ZE500KL",
     "public_hash": "QmV2FY4EQ4DQ92TkCpJ2qqM48SFmVG8Q1NA67mKeFnM3ZM",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Asus Zenfone 2 Laser ZE500KL.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Asus Zenfone 2 Laser ZE500KL.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Asus Zenfone 2 Laser ZE500KL.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Asus Zenfone 2 Laser ZE500KL.json",
     "token_id": 79
 }, {
     "name": "Asus Zenfone Max ZC550KL",
     "public_hash": "QmV2FY4EQ4DQ92TkCpJ2qqM48SFmVG8Q1NA67mKeFnM3ZM",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Asus Zenfone Max ZC550KL.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Asus Zenfone Max ZC550KL.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Asus Zenfone Max ZC550KL.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Asus Zenfone Max ZC550KL.json",
     "token_id": 80
 }, {
     "name": "Barnes &amp; Noble Nook Tablet",
     "public_hash": "QmcisDRN74ms6v2N5Ly8KLrWE9BqKG9T5fnGGrvcd9BdHA",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Barnes &amp; Noble Nook Tablet.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Barnes &amp; Noble Nook Tablet.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Barnes &amp; Noble Nook Tablet.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Barnes &amp; Noble Nook Tablet.json",
     "token_id": 81
 }, {
     "name": "BlackBerry BlackBerry Priv",
     "public_hash": "QmRPpfQRjZXNCKWWsPE6eytAk1FSK3LT7fNYZ3oQpRNb6z",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/BlackBerry BlackBerry Priv.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-BlackBerry BlackBerry Priv.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/BlackBerry BlackBerry Priv.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-BlackBerry BlackBerry Priv.json",
     "token_id": 82
 }, {
     "name": "BlackBerry Classic Non Camera",
     "public_hash": "QmV2FY4EQ4DQ92TkCpJ2qqM48SFmVG8Q1NA67mKeFnM3ZM",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/BlackBerry Classic Non Camera.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-BlackBerry Classic Non Camera.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/BlackBerry Classic Non Camera.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-BlackBerry Classic Non Camera.json",
     "token_id": 83
 }, {
     "name": "BlackBerry Leap",
     "public_hash": "QmV2FY4EQ4DQ92TkCpJ2qqM48SFmVG8Q1NA67mKeFnM3ZM",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/BlackBerry Leap.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-BlackBerry Leap.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/BlackBerry Leap.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-BlackBerry Leap.json",
     "token_id": 84
 }, {
     "name": "BlackBerry Passport",
     "public_hash": "QmbbVVtuTX2ukataEtBdBcMqWvbvzAmnVrxGsRpBzxU1bm",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/BlackBerry Passport.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-BlackBerry Passport.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/BlackBerry Passport.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-BlackBerry Passport.json",
     "token_id": 85
 }, {
     "name": "BlackBerry PlayBook",
     "public_hash": "QmdWEqHmEZYh9JxUkmvgkHJnG1KZU6aqowimoK3kY5TG1V",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/BlackBerry PlayBook.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-BlackBerry PlayBook.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/BlackBerry PlayBook.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-BlackBerry PlayBook.json",
     "token_id": 86
 }, {
     "name": "BlackBerry Porsche Design P9982",
     "public_hash": "QmQHFfLWFAzDNym1RX77CLwVLdV7UwZrEhWC7XXL3Ncjgg",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/BlackBerry Porsche Design P9982.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-BlackBerry Porsche Design P9982.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/BlackBerry Porsche Design P9982.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-BlackBerry Porsche Design P9982.json",
     "token_id": 87
 }, {
     "name": "BlackBerry Priv",
     "public_hash": "QmPY4Rspj523Md3khDFU3KVXaAtjid3PWYoaDEEzeRkGVn",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/BlackBerry Priv.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-BlackBerry Priv.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/BlackBerry Priv.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-BlackBerry Priv.json",
     "token_id": 88
 }, {
     "name": "BlackBerry Q10",
     "public_hash": "QmZNea3mCakt4Che71GvzgY2gXb7UiFwG3VWcPDaoQLqHG",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/BlackBerry Q10.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-BlackBerry Q10.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/BlackBerry Q10.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-BlackBerry Q10.json",
     "token_id": 89
 }, {
     "name": "BlackBerry Torch 9810",
     "public_hash": "QmZZsjUUEnTgMScfdQKMrpgTEHBQ8rr7zYNqQsFsZGWdY2",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/BlackBerry Torch 9810.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-BlackBerry Torch 9810.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/BlackBerry Torch 9810.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-BlackBerry Torch 9810.json",
     "token_id": 90
 }, {
     "name": "BlackBerry Z10",
     "public_hash": "QmT6eGEpLZfnVpjhbVWZuQCBMD4Q6MbCknYiq8iNynjsKL",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/BlackBerry Z10.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-BlackBerry Z10.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/BlackBerry Z10.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-BlackBerry Z10.json",
     "token_id": 91
 }, {
     "name": "BlackBerry Z3",
     "public_hash": "Qmem4TPLrnnjRo66KxwWNMcRYHCLtSQs7QWqU42L1yytc9",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/BlackBerry Z3.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-BlackBerry Z3.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/BlackBerry Z3.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-BlackBerry Z3.json",
     "token_id": 92
 }, {
     "name": "Dell Inspiron 14 series 36",
     "public_hash": "QmXeqfgkiNXZtopKyW1HSSA2eE8WSoTiohx5fGn3GMfZfM",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Dell Inspiron 14 series 36.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Dell Inspiron 14 series 36.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Dell Inspiron 14 series 36.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Dell Inspiron 14 series 36.json",
     "token_id": 93
 }, {
     "name": "Dell Inspiron 15 5000 Series",
     "public_hash": "QmaNEWataLJrRPr6WF7yqgaj4yT6VQYufBnM15HVXepwCh",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Dell Inspiron 15 5000 Series.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Dell Inspiron 15 5000 Series.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Dell Inspiron 15 5000 Series.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Dell Inspiron 15 5000 Series.json",
     "token_id": 94
 }, {
     "name": "Dell S2340M 23",
     "public_hash": "Qmb2HKpLXaq6et8PmdiBh2oLzbaj6keJ99a97X4hHpRy91",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Dell S2340M 23.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Dell S2340M 23.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Dell S2340M 23.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Dell S2340M 23.json",
     "token_id": 95
 }, {
     "name": "Dell U2713HM 27",
     "public_hash": "QmRPpfQRjZXNCKWWsPE6eytAk1FSK3LT7fNYZ3oQpRNb6z",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Dell U2713HM 27.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Dell U2713HM 27.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Dell U2713HM 27.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Dell U2713HM 27.json",
     "token_id": 96
 }, {
     "name": "Dell UltraSharp U2412M 24",
     "public_hash": "QmfAnHhs8YrrrcpRSQheqb3pwFxPNRMfZ3iPfgshRqmrhS",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Dell UltraSharp U2412M 24.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Dell UltraSharp U2412M 24.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Dell UltraSharp U2412M 24.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Dell UltraSharp U2412M 24.json",
     "token_id": 97
 }, {
     "name": "Dell UltraSharp U2711 27",
     "public_hash": "QmRPpfQRjZXNCKWWsPE6eytAk1FSK3LT7fNYZ3oQpRNb6z",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Dell UltraSharp U2711 27.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Dell UltraSharp U2711 27.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Dell UltraSharp U2711 27.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Dell UltraSharp U2711 27.json",
     "token_id": 98
 }, {
     "name": "Dell UltraSharp U3011 30",
     "public_hash": "QmfYYq9xuV7pjUtr6Rc2dfyJ3Hmm29FHWGLGBqfcrTvcKr",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Dell UltraSharp U3011 30.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Dell UltraSharp U3011 30.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Dell UltraSharp U3011 30.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Dell UltraSharp U3011 30.json",
     "token_id": 99
 }, {
     "name": "Dell UltraSharp UZ2315H",
     "public_hash": "Qmb2HKpLXaq6et8PmdiBh2oLzbaj6keJ99a97X4hHpRy91",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Dell UltraSharp UZ2315H.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Dell UltraSharp UZ2315H.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Dell UltraSharp UZ2315H.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Dell UltraSharp UZ2315H.json",
     "token_id": 100
 }, {
     "name": "Dell Venue 10",
     "public_hash": "QmbZespFjD7pgquV3KTy1Cj64XgohddHxXM1W841GfwnWV",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Dell Venue 10.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Dell Venue 10.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Dell Venue 10.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Dell Venue 10.json",
     "token_id": 101
 }, {
     "name": "Dell Venue",
     "public_hash": "QmbZespFjD7pgquV3KTy1Cj64XgohddHxXM1W841GfwnWV",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Dell Venue.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Dell Venue.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Dell Venue.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Dell Venue.json",
     "token_id": 102
 }, {
     "name": "Dell XPS 13",
     "public_hash": "Qmb2HKpLXaq6et8PmdiBh2oLzbaj6keJ99a97X4hHpRy91",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Dell XPS 13.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Dell XPS 13.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Dell XPS 13.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Dell XPS 13.json",
     "token_id": 103
 }, {
     "name": "FUJITSU LIFEBOOK U745",
     "public_hash": "Qmcrky1zdEcyZwdmZk336taAdKxCcqKwdyn9hpXGvEnCC8",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/FUJITSU LIFEBOOK U745.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-FUJITSU LIFEBOOK U745.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/FUJITSU LIFEBOOK U745.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-FUJITSU LIFEBOOK U745.json",
     "token_id": 104
 }, {
     "name": "FUJITSU STYLISTIC Q665",
     "public_hash": "QmenYsrttr1cbvew2btCqzhXxhNqjVvVPRnPVd8SQZhfxY",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/FUJITSU STYLISTIC Q665.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-FUJITSU STYLISTIC Q665.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/FUJITSU STYLISTIC Q665.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-FUJITSU STYLISTIC Q665.json",
     "token_id": 105
 }, {
     "name": "FUJITSU STYLISTIC Q736",
     "public_hash": "QmenYsrttr1cbvew2btCqzhXxhNqjVvVPRnPVd8SQZhfxY",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/FUJITSU STYLISTIC Q736.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-FUJITSU STYLISTIC Q736.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/FUJITSU STYLISTIC Q736.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-FUJITSU STYLISTIC Q736.json",
     "token_id": 106
 }, {
     "name": "Google Chromebook Pixel",
     "public_hash": "QmRvsHVA6AxeLvJKaCx4VPtkZuRJ2y5X8RADaQ6k4AH8UM",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Google Chromebook Pixel.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Google Chromebook Pixel.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Google Chromebook Pixel.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Google Chromebook Pixel.json",
     "token_id": 107
 }, {
     "name": "Google Pixel C",
     "public_hash": "QmXcipQGqbLxgJAWmUggbsK4C9okL3d8waNTYfwE6mWswr",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Google Pixel C.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Google Pixel C.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Google Pixel C.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Google Pixel C.json",
     "token_id": 108
 }, {
     "name": "Google Pixel XL",
     "public_hash": "QmPY4Rspj523Md3khDFU3KVXaAtjid3PWYoaDEEzeRkGVn",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Google Pixel XL.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Google Pixel XL.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Google Pixel XL.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Google Pixel XL.json",
     "token_id": 109
 }, {
     "name": "Google Pixel",
     "public_hash": "QmenYsrttr1cbvew2btCqzhXxhNqjVvVPRnPVd8SQZhfxY",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Google Pixel.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Google Pixel.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Google Pixel.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Google Pixel.json",
     "token_id": 110
 }, {
     "name": "HP 7 Plus Tablet",
     "public_hash": "QmdWEqHmEZYh9JxUkmvgkHJnG1KZU6aqowimoK3kY5TG1V",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/HP 7 Plus Tablet.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-HP 7 Plus Tablet.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/HP 7 Plus Tablet.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-HP 7 Plus Tablet.json",
     "token_id": 111
 }, {
     "name": "HP 7 Voice Tab",
     "public_hash": "QmdWEqHmEZYh9JxUkmvgkHJnG1KZU6aqowimoK3kY5TG1V",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/HP 7 Voice Tab.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-HP 7 Voice Tab.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/HP 7 Voice Tab.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-HP 7 Voice Tab.json",
     "token_id": 112
 }, {
     "name": "HP Dreamcolor Z27x",
     "public_hash": "QmRPpfQRjZXNCKWWsPE6eytAk1FSK3LT7fNYZ3oQpRNb6z",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/HP Dreamcolor Z27x.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-HP Dreamcolor Z27x.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/HP Dreamcolor Z27x.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-HP Dreamcolor Z27x.json",
     "token_id": 113
 }, {
     "name": "HP Pavilion G6-2235us 15.6",
     "public_hash": "QmaNEWataLJrRPr6WF7yqgaj4yT6VQYufBnM15HVXepwCh",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/HP Pavilion G6-2235us 15.6.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-HP Pavilion G6-2235us 15.6.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/HP Pavilion G6-2235us 15.6.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-HP Pavilion G6-2235us 15.6.json",
     "token_id": 114
 }, {
     "name": "HP Slate 7",
     "public_hash": "QmdWEqHmEZYh9JxUkmvgkHJnG1KZU6aqowimoK3kY5TG1V",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/HP Slate 7.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-HP Slate 7.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/HP Slate 7.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-HP Slate 7.json",
     "token_id": 115
 }, {
     "name": "HP Slate 8 Plus Tablet",
     "public_hash": "QmbZespFjD7pgquV3KTy1Cj64XgohddHxXM1W841GfwnWV",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/HP Slate 8 Plus Tablet.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-HP Slate 8 Plus Tablet.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/HP Slate 8 Plus Tablet.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-HP Slate 8 Plus Tablet.json",
     "token_id": 116
 }, {
     "name": "HP Slate7 VoiceTab",
     "public_hash": "QmbZespFjD7pgquV3KTy1Cj64XgohddHxXM1W841GfwnWV",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/HP Slate7 VoiceTab.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-HP Slate7 VoiceTab.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/HP Slate7 VoiceTab.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-HP Slate7 VoiceTab.json",
     "token_id": 117
 }, {
     "name": "HTC Desire HD",
     "public_hash": "QmP6hKzfdcBU1U8tv7jHMiF7aQEtWEPb4vKbWhgY1nQbGj",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/HTC Desire HD.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-HTC Desire HD.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/HTC Desire HD.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-HTC Desire HD.json",
     "token_id": 118
 }, {
     "name": "HTC Desire",
     "public_hash": "QmP6hKzfdcBU1U8tv7jHMiF7aQEtWEPb4vKbWhgY1nQbGj",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/HTC Desire.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-HTC Desire.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/HTC Desire.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-HTC Desire.json",
     "token_id": 119
 }, {
     "name": "HTC Evo",
     "public_hash": "QmP6hKzfdcBU1U8tv7jHMiF7aQEtWEPb4vKbWhgY1nQbGj",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/HTC Evo.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-HTC Evo.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/HTC Evo.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-HTC Evo.json",
     "token_id": 120
 }, {
     "name": "HTC Nexus 9",
     "public_hash": "QmebnEXqpJRoFzrdahWX6UejK7HGQs6pwDp2u7k8jftosz",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/HTC Nexus 9.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-HTC Nexus 9.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/HTC Nexus 9.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-HTC Nexus 9.json",
     "token_id": 121
 }, {
     "name": "HTC One M8",
     "public_hash": "QmenYsrttr1cbvew2btCqzhXxhNqjVvVPRnPVd8SQZhfxY",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/HTC One M8.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-HTC One M8.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/HTC One M8.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-HTC One M8.json",
     "token_id": 122
 }, {
     "name": "HTC One M9",
     "public_hash": "QmenYsrttr1cbvew2btCqzhXxhNqjVvVPRnPVd8SQZhfxY",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/HTC One M9.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-HTC One M9.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/HTC One M9.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-HTC One M9.json",
     "token_id": 123
 }, {
     "name": "HTC One",
     "public_hash": "QmenYsrttr1cbvew2btCqzhXxhNqjVvVPRnPVd8SQZhfxY",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/HTC One.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-HTC One.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/HTC One.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-HTC One.json",
     "token_id": 124
 }, {
     "name": "Huawei Mat",
     "public_hash": "Qmb2HKpLXaq6et8PmdiBh2oLzbaj6keJ99a97X4hHpRy91",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Huawei Mat.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Huawei Mat.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Huawei Mat.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Huawei Mat.json",
     "token_id": 125
 }, {
     "name": "Huawei Nexus 6p",
     "public_hash": "QmPY4Rspj523Md3khDFU3KVXaAtjid3PWYoaDEEzeRkGVn",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Huawei Nexus 6p.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Huawei Nexus 6p.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Huawei Nexus 6p.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Huawei Nexus 6p.json",
     "token_id": 126
 }, {
     "name": "Huawei Nova 7i",
     "public_hash": "QmRn9pAiKwdGvD2w2x24tCS7AWX3CfysoX84xhGqgobvT2",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Huawei Nova 7i.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Huawei Nova 7i.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Huawei Nova 7i.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Huawei Nova 7i.json",
     "token_id": 127
 }, {
     "name": "Huawei P8",
     "public_hash": "QmenYsrttr1cbvew2btCqzhXxhNqjVvVPRnPVd8SQZhfxY",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Huawei P8.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Huawei P8.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Huawei P8.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Huawei P8.json",
     "token_id": 128
 }, {
     "name": "Infocus M812i",
     "public_hash": "QmenYsrttr1cbvew2btCqzhXxhNqjVvVPRnPVd8SQZhfxY",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Infocus M812i.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Infocus M812i.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Infocus M812i.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Infocus M812i.json",
     "token_id": 129
 }, {
     "name": "LG G3",
     "public_hash": "QmPY4Rspj523Md3khDFU3KVXaAtjid3PWYoaDEEzeRkGVn",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/LG G3.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-LG G3.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/LG G3.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-LG G3.json",
     "token_id": 130
 }, {
     "name": "LG G4",
     "public_hash": "QmPY4Rspj523Md3khDFU3KVXaAtjid3PWYoaDEEzeRkGVn",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/LG G4.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-LG G4.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/LG G4.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-LG G4.json",
     "token_id": 131
 }, {
     "name": "LG GX F310L",
     "public_hash": "QmenYsrttr1cbvew2btCqzhXxhNqjVvVPRnPVd8SQZhfxY",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/LG GX F310L.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-LG GX F310L.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/LG GX F310L.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-LG GX F310L.json",
     "token_id": 132
 }, {
     "name": "LG Nexus 4 AR",
     "public_hash": "QmT6eGEpLZfnVpjhbVWZuQCBMD4Q6MbCknYiq8iNynjsKL",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/LG Nexus 4 AR.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-LG Nexus 4 AR.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/LG Nexus 4 AR.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-LG Nexus 4 AR.json",
     "token_id": 133
 }, {
     "name": "LG Nexus 4",
     "public_hash": "QmT6eGEpLZfnVpjhbVWZuQCBMD4Q6MbCknYiq8iNynjsKL",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/LG Nexus 4.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-LG Nexus 4.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/LG Nexus 4.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-LG Nexus 4.json",
     "token_id": 134
 }, {
     "name": "LG Nexus 5X",
     "public_hash": "QmenYsrttr1cbvew2btCqzhXxhNqjVvVPRnPVd8SQZhfxY",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/LG Nexus 5X.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-LG Nexus 5X.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/LG Nexus 5X.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-LG Nexus 5X.json",
     "token_id": 135
 }, {
     "name": "LG Phoenix 2",
     "public_hash": "QmayCcwnHTnazKNuEApHsv8Lgb6bQu7brfPWmJFsdykkAA",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/LG Phoenix 2.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-LG Phoenix 2.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/LG Phoenix 2.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-LG Phoenix 2.json",
     "token_id": 136
 }, {
     "name": "LG V10",
     "public_hash": "QmPY4Rspj523Md3khDFU3KVXaAtjid3PWYoaDEEzeRkGVn",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/LG V10.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-LG V10.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/LG V10.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-LG V10.json",
     "token_id": 137
 }, {
     "name": "Lenovo K3 Note",
     "public_hash": "Qmb2HKpLXaq6et8PmdiBh2oLzbaj6keJ99a97X4hHpRy91",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Lenovo K3 Note.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Lenovo K3 Note.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Lenovo K3 Note.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Lenovo K3 Note.json",
     "token_id": 138
 }, {
     "name": "Lenovo Thinkpad X230",
     "public_hash": "QmaNEWataLJrRPr6WF7yqgaj4yT6VQYufBnM15HVXepwCh",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Lenovo Thinkpad X230.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Lenovo Thinkpad X230.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Lenovo Thinkpad X230.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Lenovo Thinkpad X230.json",
     "token_id": 139
 }, {
     "name": "Lenovo Vibe K4 Note",
     "public_hash": "Qmb2HKpLXaq6et8PmdiBh2oLzbaj6keJ99a97X4hHpRy91",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Lenovo Vibe K4 Note.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Lenovo Vibe K4 Note.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Lenovo Vibe K4 Note.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Lenovo Vibe K4 Note.json",
     "token_id": 140
 }, {
     "name": "Lenovo Yoga 10 HD+",
     "public_hash": "QmfAnHhs8YrrrcpRSQheqb3pwFxPNRMfZ3iPfgshRqmrhS",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Lenovo Yoga 10 HD+.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Lenovo Yoga 10 HD+.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Lenovo Yoga 10 HD+.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Lenovo Yoga 10 HD+.json",
     "token_id": 141
 }, {
     "name": "Micromax Canvas 6",
     "public_hash": "Qmb2HKpLXaq6et8PmdiBh2oLzbaj6keJ99a97X4hHpRy91",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Micromax Canvas 6.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Micromax Canvas 6.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Micromax Canvas 6.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Micromax Canvas 6.json",
     "token_id": 142
 }, {
     "name": "Microsoft Lumia 950",
     "public_hash": "QmPY4Rspj523Md3khDFU3KVXaAtjid3PWYoaDEEzeRkGVn",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Microsoft Lumia 950.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Microsoft Lumia 950.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Microsoft Lumia 950.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Microsoft Lumia 950.json",
     "token_id": 143
 }, {
     "name": "Microsoft Surface Book",
     "public_hash": "QmTxVe5tg3tHdmoYwwgkNurp3EeAKBeWbBynzVMsqQ3UqV",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Microsoft Surface Book.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Microsoft Surface Book.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Microsoft Surface Book.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Microsoft Surface Book.json",
     "token_id": 144
 }, {
     "name": "Microsoft Surface Pro (2017)",
     "public_hash": "QmagAbEKUtxQSk7NGHwGKCpTtujiV43abbkzWYymWE4ov3",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Microsoft Surface Pro (2017).png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Microsoft Surface Pro (2017).json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Microsoft Surface Pro (2017).png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Microsoft Surface Pro (2017).json",
     "token_id": 145
 }, {
     "name": "Microsoft Surface Pro 3",
     "public_hash": "QmfJ6GA5e5FmKTommLXAwdxWPB5DQpa489pSGCxb1sJbSD",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Microsoft Surface Pro 3.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Microsoft Surface Pro 3.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Microsoft Surface Pro 3.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Microsoft Surface Pro 3.json",
     "token_id": 146
 }, {
     "name": "Microsoft Surface Pro 4",
     "public_hash": "QmagAbEKUtxQSk7NGHwGKCpTtujiV43abbkzWYymWE4ov3",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Microsoft Surface Pro 4.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Microsoft Surface Pro 4.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Microsoft Surface Pro 4.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Microsoft Surface Pro 4.json",
     "token_id": 147
 }, {
     "name": "Motorola Droid 3 &amp; 4",
     "public_hash": "QmUUFiYMqg5nXw8iNxjJ1ZnQd78CjVRzticwoXfkhFepRR",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Motorola Droid 3 &amp; 4.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Motorola Droid 3 &amp; 4.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Motorola Droid 3 &amp; 4.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Motorola Droid 3 &amp; 4.json",
     "token_id": 148
 }, {
     "name": "Motorola Droid Razr Maxx",
     "public_hash": "QmUUFiYMqg5nXw8iNxjJ1ZnQd78CjVRzticwoXfkhFepRR",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Motorola Droid Razr Maxx.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Motorola Droid Razr Maxx.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Motorola Droid Razr Maxx.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Motorola Droid Razr Maxx.json",
     "token_id": 149
 }, {
     "name": "Motorola Droid Razr",
     "public_hash": "QmUUFiYMqg5nXw8iNxjJ1ZnQd78CjVRzticwoXfkhFepRR",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Motorola Droid Razr.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Motorola Droid Razr.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Motorola Droid Razr.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Motorola Droid Razr.json",
     "token_id": 150
 }, {
     "name": "Motorola Droid Turbo",
     "public_hash": "QmPY4Rspj523Md3khDFU3KVXaAtjid3PWYoaDEEzeRkGVn",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Motorola Droid Turbo.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Motorola Droid Turbo.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Motorola Droid Turbo.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Motorola Droid Turbo.json",
     "token_id": 151
 }, {
     "name": "Motorola Droid",
     "public_hash": "QmZAAcEC9CqmWpJNMSsup1EziUzM8BfZUWVRjktEmDqrYf",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Motorola Droid.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Motorola Droid.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Motorola Droid.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Motorola Droid.json",
     "token_id": 152
 }, {
     "name": "Motorola Moto E",
     "public_hash": "QmUUFiYMqg5nXw8iNxjJ1ZnQd78CjVRzticwoXfkhFepRR",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Motorola Moto E.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Motorola Moto E.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Motorola Moto E.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Motorola Moto E.json",
     "token_id": 153
 }, {
     "name": "Motorola Moto G",
     "public_hash": "QmayCcwnHTnazKNuEApHsv8Lgb6bQu7brfPWmJFsdykkAA",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Motorola Moto G.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Motorola Moto G.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Motorola Moto G.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Motorola Moto G.json",
     "token_id": 154
 }, {
     "name": "Motorola Moto G4 Plus",
     "public_hash": "Qmb2HKpLXaq6et8PmdiBh2oLzbaj6keJ99a97X4hHpRy91",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Motorola Moto G4 Plus.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Motorola Moto G4 Plus.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Motorola Moto G4 Plus.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Motorola Moto G4 Plus.json",
     "token_id": 155
 }, {
     "name": "Motorola Moto X Style",
     "public_hash": "QmPY4Rspj523Md3khDFU3KVXaAtjid3PWYoaDEEzeRkGVn",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Motorola Moto X Style.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Motorola Moto X Style.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Motorola Moto X Style.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Motorola Moto X Style.json",
     "token_id": 156
 }, {
     "name": "Motorola Moto Z",
     "public_hash": "QmRPpfQRjZXNCKWWsPE6eytAk1FSK3LT7fNYZ3oQpRNb6z",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Motorola Moto Z.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Motorola Moto Z.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Motorola Moto Z.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Motorola Moto Z.json",
     "token_id": 157
 }, {
     "name": "Motorola Nexus 6",
     "public_hash": "QmPY4Rspj523Md3khDFU3KVXaAtjid3PWYoaDEEzeRkGVn",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Motorola Nexus 6.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Motorola Nexus 6.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Motorola Nexus 6.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Motorola Nexus 6.json",
     "token_id": 158
 }, {
     "name": "Nokia Lumia (710, 800)",
     "public_hash": "QmP6hKzfdcBU1U8tv7jHMiF7aQEtWEPb4vKbWhgY1nQbGj",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Nokia Lumia (710, 800).png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Nokia Lumia (710, 800).json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Nokia Lumia (710, 800).png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Nokia Lumia (710, 800).json",
     "token_id": 159
 }, {
     "name": "Nokia Lumia 1020",
     "public_hash": "QmT6eGEpLZfnVpjhbVWZuQCBMD4Q6MbCknYiq8iNynjsKL",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Nokia Lumia 1020.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Nokia Lumia 1020.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Nokia Lumia 1020.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Nokia Lumia 1020.json",
     "token_id": 160
 }, {
     "name": "Nokia Lumia 520",
     "public_hash": "QmP6hKzfdcBU1U8tv7jHMiF7aQEtWEPb4vKbWhgY1nQbGj",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Nokia Lumia 520.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Nokia Lumia 520.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Nokia Lumia 520.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Nokia Lumia 520.json",
     "token_id": 161
 }, {
     "name": "Nokia Lumia 620",
     "public_hash": "QmP6hKzfdcBU1U8tv7jHMiF7aQEtWEPb4vKbWhgY1nQbGj",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Nokia Lumia 620.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Nokia Lumia 620.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Nokia Lumia 620.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Nokia Lumia 620.json",
     "token_id": 162
 }, {
     "name": "Nokia Lumia 720",
     "public_hash": "QmP6hKzfdcBU1U8tv7jHMiF7aQEtWEPb4vKbWhgY1nQbGj",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Nokia Lumia 720.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Nokia Lumia 720.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Nokia Lumia 720.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Nokia Lumia 720.json",
     "token_id": 163
 }, {
     "name": "Nokia Lumia 900",
     "public_hash": "QmP6hKzfdcBU1U8tv7jHMiF7aQEtWEPb4vKbWhgY1nQbGj",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Nokia Lumia 900.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Nokia Lumia 900.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Nokia Lumia 900.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Nokia Lumia 900.json",
     "token_id": 164
 }, {
     "name": "Nokia Lumia 920",
     "public_hash": "QmT6eGEpLZfnVpjhbVWZuQCBMD4Q6MbCknYiq8iNynjsKL",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Nokia Lumia 920.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Nokia Lumia 920.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Nokia Lumia 920.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Nokia Lumia 920.json",
     "token_id": 165
 }, {
     "name": "Nokia Lumia 925",
     "public_hash": "QmT6eGEpLZfnVpjhbVWZuQCBMD4Q6MbCknYiq8iNynjsKL",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Nokia Lumia 925.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Nokia Lumia 925.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Nokia Lumia 925.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Nokia Lumia 925.json",
     "token_id": 166
 }, {
     "name": "OnePlus 2",
     "public_hash": "QmenYsrttr1cbvew2btCqzhXxhNqjVvVPRnPVd8SQZhfxY",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/OnePlus 2.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-OnePlus 2.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/OnePlus 2.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-OnePlus 2.json",
     "token_id": 167
 }, {
     "name": "OnePlus One",
     "public_hash": "QmenYsrttr1cbvew2btCqzhXxhNqjVvVPRnPVd8SQZhfxY",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/OnePlus One.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-OnePlus One.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/OnePlus One.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-OnePlus One.json",
     "token_id": 168
 }, {
     "name": "OnePlus X",
     "public_hash": "QmenYsrttr1cbvew2btCqzhXxhNqjVvVPRnPVd8SQZhfxY",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/OnePlus X.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-OnePlus X.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/OnePlus X.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-OnePlus X.json",
     "token_id": 169
 }, {
     "name": "Oppo A37",
     "public_hash": "Qmb2HKpLXaq6et8PmdiBh2oLzbaj6keJ99a97X4hHpRy91",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Oppo A37.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Oppo A37.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Oppo A37.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Oppo A37.json",
     "token_id": 170
 }, {
     "name": "Oppo A53",
     "public_hash": "QmV2FY4EQ4DQ92TkCpJ2qqM48SFmVG8Q1NA67mKeFnM3ZM",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Oppo A53.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Oppo A53.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Oppo A53.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Oppo A53.json",
     "token_id": 171
 }, {
     "name": "Oppo A59",
     "public_hash": "QmV2FY4EQ4DQ92TkCpJ2qqM48SFmVG8Q1NA67mKeFnM3ZM",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Oppo A59.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Oppo A59.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Oppo A59.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Oppo A59.json",
     "token_id": 172
 }, {
     "name": "Oppo F1 Plus",
     "public_hash": "Qmb2HKpLXaq6et8PmdiBh2oLzbaj6keJ99a97X4hHpRy91",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Oppo F1 Plus.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Oppo F1 Plus.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Oppo F1 Plus.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Oppo F1 Plus.json",
     "token_id": 173
 }, {
     "name": "Oppo F1",
     "public_hash": "QmV2FY4EQ4DQ92TkCpJ2qqM48SFmVG8Q1NA67mKeFnM3ZM",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Oppo F1.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Oppo F1.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Oppo F1.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Oppo F1.json",
     "token_id": 174
 }, {
     "name": "Oppo R9 Plus",
     "public_hash": "Qmb2HKpLXaq6et8PmdiBh2oLzbaj6keJ99a97X4hHpRy91",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Oppo R9 Plus.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Oppo R9 Plus.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Oppo R9 Plus.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Oppo R9 Plus.json",
     "token_id": 175
 }, {
     "name": "Oppo R9",
     "public_hash": "Qmb2HKpLXaq6et8PmdiBh2oLzbaj6keJ99a97X4hHpRy91",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Oppo R9.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Oppo R9.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Oppo R9.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Oppo R9.json",
     "token_id": 176
 }, {
     "name": "Panasonic BT-4LH310",
     "public_hash": "QmeDrvoU3Kyh56GBWCwXXPM3uh1s1LUEfkJpjXWJDAV6G4",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Panasonic BT-4LH310.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Panasonic BT-4LH310.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Panasonic BT-4LH310.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Panasonic BT-4LH310.json",
     "token_id": 177
 }, {
     "name": "Panasonic BT-4LH310P",
     "public_hash": "QmWeWPC41zA3ZPrfnj26ZtsYtYanJhP2M2EaXDkRN41oyX",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Panasonic BT-4LH310P.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Panasonic BT-4LH310P.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Panasonic BT-4LH310P.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Panasonic BT-4LH310P.json",
     "token_id": 178
 }, {
     "name": "Panasonic BT-LH1850",
     "public_hash": "QmVaAVw6AxseCcG3MeQ4zYFHGSAVmgNMFXhL1xSnqCZrwd",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Panasonic BT-LH1850.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Panasonic BT-LH1850.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Panasonic BT-LH1850.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Panasonic BT-LH1850.json",
     "token_id": 179
 }, {
     "name": "Panasonic BT-LH910",
     "public_hash": "QmT6eGEpLZfnVpjhbVWZuQCBMD4Q6MbCknYiq8iNynjsKL",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Panasonic BT-LH910.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Panasonic BT-LH910.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Panasonic BT-LH910.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Panasonic BT-LH910.json",
     "token_id": 180
 }, {
     "name": "Panasonic Eluga Arc",
     "public_hash": "QmV2FY4EQ4DQ92TkCpJ2qqM48SFmVG8Q1NA67mKeFnM3ZM",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Panasonic Eluga Arc.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Panasonic Eluga Arc.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Panasonic Eluga Arc.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Panasonic Eluga Arc.json",
     "token_id": 181
 }, {
     "name": "Panasonic Eluga I3",
     "public_hash": "QmV2FY4EQ4DQ92TkCpJ2qqM48SFmVG8Q1NA67mKeFnM3ZM",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Panasonic Eluga I3.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Panasonic Eluga I3.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Panasonic Eluga I3.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Panasonic Eluga I3.json",
     "token_id": 182
 }, {
     "name": "Panasonic T44",
     "public_hash": "QmVTK2ycsgy3JjuCYsg364rwhjBpWC6AoPZURBUhNoi5Jm",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Panasonic T44.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Panasonic T44.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Panasonic T44.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Panasonic T44.json",
     "token_id": 183
 }, {
     "name": "Panasonic T50",
     "public_hash": "QmQRs4AhCpnCWmoaoTs5aHdicSGpefBqNAAG6qbBcWvTFK",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Panasonic T50.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Panasonic T50.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Panasonic T50.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Panasonic T50.json",
     "token_id": 184
 }, {
     "name": "Panasonic Toughpad FZ-F1",
     "public_hash": "QmV2FY4EQ4DQ92TkCpJ2qqM48SFmVG8Q1NA67mKeFnM3ZM",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Panasonic Toughpad FZ-F1.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Panasonic Toughpad FZ-F1.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Panasonic Toughpad FZ-F1.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Panasonic Toughpad FZ-F1.json",
     "token_id": 185
 }, {
     "name": "Philips Sapphire Life V787",
     "public_hash": "Qmb2HKpLXaq6et8PmdiBh2oLzbaj6keJ99a97X4hHpRy91",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Philips Sapphire Life V787.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Philips Sapphire Life V787.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Philips Sapphire Life V787.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Philips Sapphire Life V787.json",
     "token_id": 186
 }, {
     "name": "Philips Sapphire S616",
     "public_hash": "Qmb2HKpLXaq6et8PmdiBh2oLzbaj6keJ99a97X4hHpRy91",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Philips Sapphire S616.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Philips Sapphire S616.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Philips Sapphire S616.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Philips Sapphire S616.json",
     "token_id": 187
 }, {
     "name": "Samsung A5",
     "public_hash": "QmayCcwnHTnazKNuEApHsv8Lgb6bQu7brfPWmJFsdykkAA",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung A5.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Samsung A5.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung A5.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Samsung A5.json",
     "token_id": 188
 }, {
     "name": "Samsung Chromebook",
     "public_hash": "QmaNEWataLJrRPr6WF7yqgaj4yT6VQYufBnM15HVXepwCh",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Chromebook.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Samsung Chromebook.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Chromebook.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Samsung Chromebook.json",
     "token_id": 189
 }, {
     "name": "Samsung Galaxy A30",
     "public_hash": "QmarspuWomDVk6eL1EtLL6cUm5ha31WTtDiYpmwcXdw5Aj",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy A30.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Samsung Galaxy A30.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy A30.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Samsung Galaxy A30.json",
     "token_id": 190
 }, {
     "name": "Samsung Galaxy A50",
     "public_hash": "QmarspuWomDVk6eL1EtLL6cUm5ha31WTtDiYpmwcXdw5Aj",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy A50.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Samsung Galaxy A50.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy A50.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Samsung Galaxy A50.json",
     "token_id": 191
 }, {
     "name": "Samsung Galaxy A50s",
     "public_hash": "QmarspuWomDVk6eL1EtLL6cUm5ha31WTtDiYpmwcXdw5Aj",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy A50s.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Samsung Galaxy A50s.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy A50s.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Samsung Galaxy A50s.json",
     "token_id": 192
 }, {
     "name": "Samsung Galaxy A51",
     "public_hash": "QmTUmNZsGC6ou6NfMF8aSieddFL1GfQkSDuGUvUUT1MBv6",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy A51.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Samsung Galaxy A51.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy A51.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Samsung Galaxy A51.json",
     "token_id": 193
 }, {
     "name": "Samsung Galaxy A70s",
     "public_hash": "QmTUmNZsGC6ou6NfMF8aSieddFL1GfQkSDuGUvUUT1MBv6",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy A70s.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Samsung Galaxy A70s.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy A70s.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Samsung Galaxy A70s.json",
     "token_id": 194
 }, {
     "name": "Samsung Galaxy A71",
     "public_hash": "QmTUmNZsGC6ou6NfMF8aSieddFL1GfQkSDuGUvUUT1MBv6",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy A71.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Samsung Galaxy A71.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy A71.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Samsung Galaxy A71.json",
     "token_id": 195
 }, {
     "name": "Samsung Galaxy J7 Prime",
     "public_hash": "QmenYsrttr1cbvew2btCqzhXxhNqjVvVPRnPVd8SQZhfxY",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy J7 Prime.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Samsung Galaxy J7 Prime.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy J7 Prime.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Samsung Galaxy J7 Prime.json",
     "token_id": 196
 }, {
     "name": "Samsung Galaxy J7 Prime2",
     "public_hash": "QmenYsrttr1cbvew2btCqzhXxhNqjVvVPRnPVd8SQZhfxY",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy J7 Prime2.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Samsung Galaxy J7 Prime2.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy J7 Prime2.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Samsung Galaxy J7 Prime2.json",
     "token_id": 197
 }, {
     "name": "Samsung Galaxy J7",
     "public_hash": "QmayCcwnHTnazKNuEApHsv8Lgb6bQu7brfPWmJFsdykkAA",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy J7.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Samsung Galaxy J7.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy J7.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Samsung Galaxy J7.json",
     "token_id": 198
 }, {
     "name": "Samsung Galaxy Nexus",
     "public_hash": "QmayCcwnHTnazKNuEApHsv8Lgb6bQu7brfPWmJFsdykkAA",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy Nexus.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Samsung Galaxy Nexus.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy Nexus.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Samsung Galaxy Nexus.json",
     "token_id": 199
 }, {
     "name": "Samsung Galaxy Note II",
     "public_hash": "QmayCcwnHTnazKNuEApHsv8Lgb6bQu7brfPWmJFsdykkAA",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy Note II.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Samsung Galaxy Note II.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy Note II.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Samsung Galaxy Note II.json",
     "token_id": 200
 }, {
     "name": "Samsung Galaxy Note Pro 12.2",
     "public_hash": "QmfYYq9xuV7pjUtr6Rc2dfyJ3Hmm29FHWGLGBqfcrTvcKr",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy Note Pro 12.2.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Samsung Galaxy Note Pro 12.2.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy Note Pro 12.2.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Samsung Galaxy Note Pro 12.2.json",
     "token_id": 201
 }, {
     "name": "Samsung Galaxy Note",
     "public_hash": "QmdcRqWp78HWeqGZ9uBeZPBGgiG3UnQdbFF77HS6frBfYx",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy Note.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Samsung Galaxy Note.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy Note.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Samsung Galaxy Note.json",
     "token_id": 202
 }, {
     "name": "Samsung Galaxy Note10+",
     "public_hash": "QmZXFsaV5YiBHKuXDQMbVKBrTRr6y2cPtXN2kMk7eEyMSX",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy Note10+.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Samsung Galaxy Note10+.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy Note10+.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Samsung Galaxy Note10+.json",
     "token_id": 203
 }, {
     "name": "Samsung Galaxy Note10",
     "public_hash": "QmZJ21PfBdEHg9YGa42gDRmJt3sWpVKKcuCmFP8dPeCi5s",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy Note10.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Samsung Galaxy Note10.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy Note10.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Samsung Galaxy Note10.json",
     "token_id": 204
 }, {
     "name": "Samsung Galaxy Note20 Ultra",
     "public_hash": "QmeYz6LbkbCraMoVoHVKkZZTbwbf5Y8XRmWrdFgHmRWQ8X",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy Note20 Ultra.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Samsung Galaxy Note20 Ultra.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy Note20 Ultra.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Samsung Galaxy Note20 Ultra.json",
     "token_id": 205
 }, {
     "name": "Samsung Galaxy Note20",
     "public_hash": "QmTUmNZsGC6ou6NfMF8aSieddFL1GfQkSDuGUvUUT1MBv6",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy Note20.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Samsung Galaxy Note20.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy Note20.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Samsung Galaxy Note20.json",
     "token_id": 206
 }, {
     "name": "Samsung Galaxy Note4",
     "public_hash": "QmPY4Rspj523Md3khDFU3KVXaAtjid3PWYoaDEEzeRkGVn",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy Note4.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Samsung Galaxy Note4.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy Note4.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Samsung Galaxy Note4.json",
     "token_id": 207
 }, {
     "name": "Samsung Galaxy Note5",
     "public_hash": "QmPY4Rspj523Md3khDFU3KVXaAtjid3PWYoaDEEzeRkGVn",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy Note5.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Samsung Galaxy Note5.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy Note5.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Samsung Galaxy Note5.json",
     "token_id": 208
 }, {
     "name": "Samsung Galaxy S Plus",
     "public_hash": "QmP6hKzfdcBU1U8tv7jHMiF7aQEtWEPb4vKbWhgY1nQbGj",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy S Plus.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Samsung Galaxy S Plus.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy S Plus.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Samsung Galaxy S Plus.json",
     "token_id": 209
 }, {
     "name": "Samsung Galaxy S",
     "public_hash": "QmP6hKzfdcBU1U8tv7jHMiF7aQEtWEPb4vKbWhgY1nQbGj",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy S.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Samsung Galaxy S.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy S.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Samsung Galaxy S.json",
     "token_id": 210
 }, {
     "name": "Samsung Galaxy S10 Lite",
     "public_hash": "QmTUmNZsGC6ou6NfMF8aSieddFL1GfQkSDuGUvUUT1MBv6",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy S10 Lite.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Samsung Galaxy S10 Lite.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy S10 Lite.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Samsung Galaxy S10 Lite.json",
     "token_id": 211
 }, {
     "name": "Samsung Galaxy S20 Ultra",
     "public_hash": "QmfBkbkYHSmqz27g18Ap8HLRZVvFZWJ1gPz8qe1YqHgaZq",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy S20 Ultra.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Samsung Galaxy S20 Ultra.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy S20 Ultra.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Samsung Galaxy S20 Ultra.json",
     "token_id": 212
 }, {
     "name": "Samsung Galaxy S20+",
     "public_hash": "QmfBkbkYHSmqz27g18Ap8HLRZVvFZWJ1gPz8qe1YqHgaZq",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy S20+.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Samsung Galaxy S20+.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy S20+.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Samsung Galaxy S20+.json",
     "token_id": 213
 }, {
     "name": "Samsung Galaxy S5",
     "public_hash": "QmenYsrttr1cbvew2btCqzhXxhNqjVvVPRnPVd8SQZhfxY",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy S5.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Samsung Galaxy S5.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy S5.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Samsung Galaxy S5.json",
     "token_id": 214
 }, {
     "name": "Samsung Galaxy S6 Edge+",
     "public_hash": "QmPY4Rspj523Md3khDFU3KVXaAtjid3PWYoaDEEzeRkGVn",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy S6 Edge+.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Samsung Galaxy S6 Edge+.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy S6 Edge+.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Samsung Galaxy S6 Edge+.json",
     "token_id": 215
 }, {
     "name": "Samsung Galaxy S6",
     "public_hash": "QmPY4Rspj523Md3khDFU3KVXaAtjid3PWYoaDEEzeRkGVn",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy S6.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Samsung Galaxy S6.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy S6.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Samsung Galaxy S6.json",
     "token_id": 216
 }, {
     "name": "Samsung Galaxy S7 Edge",
     "public_hash": "QmPY4Rspj523Md3khDFU3KVXaAtjid3PWYoaDEEzeRkGVn",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy S7 Edge.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Samsung Galaxy S7 Edge.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy S7 Edge.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Samsung Galaxy S7 Edge.json",
     "token_id": 217
 }, {
     "name": "Samsung Galaxy S7",
     "public_hash": "QmPY4Rspj523Md3khDFU3KVXaAtjid3PWYoaDEEzeRkGVn",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy S7.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Samsung Galaxy S7.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy S7.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Samsung Galaxy S7.json",
     "token_id": 218
 }, {
     "name": "Samsung Galaxy S8+",
     "public_hash": "QmZQKVH1LmPpNQZ98aQvBHpvTZQwJfhyfdPK9yG2EUYS6J",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy S8+.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Samsung Galaxy S8+.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy S8+.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Samsung Galaxy S8+.json",
     "token_id": 219
 }, {
     "name": "Samsung Galaxy S8",
     "public_hash": "QmZQKVH1LmPpNQZ98aQvBHpvTZQwJfhyfdPK9yG2EUYS6J",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy S8.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Samsung Galaxy S8.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy S8.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Samsung Galaxy S8.json",
     "token_id": 220
 }, {
     "name": "Samsung Galaxy SII",
     "public_hash": "QmP6hKzfdcBU1U8tv7jHMiF7aQEtWEPb4vKbWhgY1nQbGj",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy SII.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Samsung Galaxy SII.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy SII.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Samsung Galaxy SII.json",
     "token_id": 221
 }, {
     "name": "Samsung Galaxy SIII",
     "public_hash": "QmayCcwnHTnazKNuEApHsv8Lgb6bQu7brfPWmJFsdykkAA",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy SIII.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Samsung Galaxy SIII.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy SIII.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Samsung Galaxy SIII.json",
     "token_id": 222
 }, {
     "name": "Samsung Galaxy SIV",
     "public_hash": "QmenYsrttr1cbvew2btCqzhXxhNqjVvVPRnPVd8SQZhfxY",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy SIV.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Samsung Galaxy SIV.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy SIV.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Samsung Galaxy SIV.json",
     "token_id": 223
 }, {
     "name": "Samsung Galaxy SV",
     "public_hash": "QmenYsrttr1cbvew2btCqzhXxhNqjVvVPRnPVd8SQZhfxY",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy SV.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Samsung Galaxy SV.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy SV.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Samsung Galaxy SV.json",
     "token_id": 224
 }, {
     "name": "Samsung Galaxy Tab 10.1",
     "public_hash": "QmdcRqWp78HWeqGZ9uBeZPBGgiG3UnQdbFF77HS6frBfYx",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy Tab 10.1.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Samsung Galaxy Tab 10.1.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy Tab 10.1.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Samsung Galaxy Tab 10.1.json",
     "token_id": 225
 }, {
     "name": "Samsung Galaxy Tab 2 10.1",
     "public_hash": "QmdcRqWp78HWeqGZ9uBeZPBGgiG3UnQdbFF77HS6frBfYx",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy Tab 2 10.1.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Samsung Galaxy Tab 2 10.1.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy Tab 2 10.1.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Samsung Galaxy Tab 2 10.1.json",
     "token_id": 226
 }, {
     "name": "Samsung Galaxy Tab 2",
     "public_hash": "Qmd79nHUErvhiYC89ZFccsG3y36msf5M1GLHcvaYbHjoj3",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy Tab 2.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Samsung Galaxy Tab 2.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy Tab 2.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Samsung Galaxy Tab 2.json",
     "token_id": 227
 }, {
     "name": "Samsung Galaxy Tab S2",
     "public_hash": "QmebnEXqpJRoFzrdahWX6UejK7HGQs6pwDp2u7k8jftosz",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy Tab S2.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Samsung Galaxy Tab S2.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Galaxy Tab S2.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Samsung Galaxy Tab S2.json",
     "token_id": 228
 }, {
     "name": "Samsung Nexus S",
     "public_hash": "QmP6hKzfdcBU1U8tv7jHMiF7aQEtWEPb4vKbWhgY1nQbGj",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Nexus S.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Samsung Nexus S.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Nexus S.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Samsung Nexus S.json",
     "token_id": 229
 }, {
     "name": "Samsung Z3",
     "public_hash": "QmayCcwnHTnazKNuEApHsv8Lgb6bQu7brfPWmJFsdykkAA",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Z3.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Samsung Z3.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Samsung Z3.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Samsung Z3.json",
     "token_id": 230
 }, {
     "name": "Sony Xperia C4 Dual",
     "public_hash": "Qmb2HKpLXaq6et8PmdiBh2oLzbaj6keJ99a97X4hHpRy91",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Sony Xperia C4 Dual.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Sony Xperia C4 Dual.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Sony Xperia C4 Dual.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Sony Xperia C4 Dual.json",
     "token_id": 231
 }, {
     "name": "Sony Xperia E4 Dual",
     "public_hash": "Qmem4TPLrnnjRo66KxwWNMcRYHCLtSQs7QWqU42L1yytc9",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Sony Xperia E4 Dual.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Sony Xperia E4 Dual.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Sony Xperia E4 Dual.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Sony Xperia E4 Dual.json",
     "token_id": 232
 }, {
     "name": "Sony Xperia M4",
     "public_hash": "QmayCcwnHTnazKNuEApHsv8Lgb6bQu7brfPWmJFsdykkAA",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Sony Xperia M4.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Sony Xperia M4.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Sony Xperia M4.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Sony Xperia M4.json",
     "token_id": 233
 }, {
     "name": "Sony Xperia T2 Ultra Dual",
     "public_hash": "QmV2FY4EQ4DQ92TkCpJ2qqM48SFmVG8Q1NA67mKeFnM3ZM",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Sony Xperia T2 Ultra Dual.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Sony Xperia T2 Ultra Dual.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Sony Xperia T2 Ultra Dual.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Sony Xperia T2 Ultra Dual.json",
     "token_id": 234
 }, {
     "name": "Sony Xperia X",
     "public_hash": "Qmb2HKpLXaq6et8PmdiBh2oLzbaj6keJ99a97X4hHpRy91",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Sony Xperia X.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Sony Xperia X.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Sony Xperia X.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Sony Xperia X.json",
     "token_id": 235
 }, {
     "name": "Sony Xperia Z",
     "public_hash": "QmenYsrttr1cbvew2btCqzhXxhNqjVvVPRnPVd8SQZhfxY",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Sony Xperia Z.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Sony Xperia Z.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Sony Xperia Z.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Sony Xperia Z.json",
     "token_id": 236
 }, {
     "name": "Sony Xperia Z1",
     "public_hash": "Qmb2HKpLXaq6et8PmdiBh2oLzbaj6keJ99a97X4hHpRy91",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Sony Xperia Z1.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Sony Xperia Z1.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Sony Xperia Z1.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Sony Xperia Z1.json",
     "token_id": 237
 }, {
     "name": "Sony Xperia Z3 Plus",
     "public_hash": "Qmb2HKpLXaq6et8PmdiBh2oLzbaj6keJ99a97X4hHpRy91",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Sony Xperia Z3 Plus.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Sony Xperia Z3 Plus.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Sony Xperia Z3 Plus.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Sony Xperia Z3 Plus.json",
     "token_id": 238
 }, {
     "name": "Sony Xperia Z3",
     "public_hash": "QmenYsrttr1cbvew2btCqzhXxhNqjVvVPRnPVd8SQZhfxY",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Sony Xperia Z3.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Sony Xperia Z3.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Sony Xperia Z3.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Sony Xperia Z3.json",
     "token_id": 239
 }, {
     "name": "Sony Xperia Z4",
     "public_hash": "QmfYYq9xuV7pjUtr6Rc2dfyJ3Hmm29FHWGLGBqfcrTvcKr",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Sony Xperia Z4.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Sony Xperia Z4.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Sony Xperia Z4.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Sony Xperia Z4.json",
     "token_id": 240
 }, {
     "name": "Sony Xperia Z5",
     "public_hash": "QmenYsrttr1cbvew2btCqzhXxhNqjVvVPRnPVd8SQZhfxY",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Sony Xperia Z5.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Sony Xperia Z5.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Sony Xperia Z5.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Sony Xperia Z5.json",
     "token_id": 241
 }, {
     "name": "Toshiba AT100",
     "public_hash": "QmbZespFjD7pgquV3KTy1Cj64XgohddHxXM1W841GfwnWV",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Toshiba AT100.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Toshiba AT100.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Toshiba AT100.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Toshiba AT100.json",
     "token_id": 242
 }, {
     "name": "Toshiba Encore 2 Write",
     "public_hash": "QmbZespFjD7pgquV3KTy1Cj64XgohddHxXM1W841GfwnWV",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Toshiba Encore 2 Write.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Toshiba Encore 2 Write.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Toshiba Encore 2 Write.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Toshiba Encore 2 Write.json",
     "token_id": 243
 }, {
     "name": "Toshiba Excite Go",
     "public_hash": "QmdWEqHmEZYh9JxUkmvgkHJnG1KZU6aqowimoK3kY5TG1V",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Toshiba Excite Go.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Toshiba Excite Go.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Toshiba Excite Go.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Toshiba Excite Go.json",
     "token_id": 244
 }, {
     "name": "Toshiba Thrive",
     "public_hash": "QmdcRqWp78HWeqGZ9uBeZPBGgiG3UnQdbFF77HS6frBfYx",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Toshiba Thrive.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Toshiba Thrive.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Toshiba Thrive.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Toshiba Thrive.json",
     "token_id": 245
 }, {
     "name": "VIVO Y51L",
     "public_hash": "QmUUFiYMqg5nXw8iNxjJ1ZnQd78CjVRzticwoXfkhFepRR",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/VIVO Y51L.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-VIVO Y51L.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/VIVO Y51L.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-VIVO Y51L.json",
     "token_id": 246
 }, {
     "name": "ViewSonic VX2452mh",
     "public_hash": "Qmb2HKpLXaq6et8PmdiBh2oLzbaj6keJ99a97X4hHpRy91",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/ViewSonic VX2452mh.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-ViewSonic VX2452mh.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/ViewSonic VX2452mh.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-ViewSonic VX2452mh.json",
     "token_id": 247
 }, {
     "name": "Xiaomi Mi 4i",
     "public_hash": "QmenYsrttr1cbvew2btCqzhXxhNqjVvVPRnPVd8SQZhfxY",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Xiaomi Mi 4i.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Xiaomi Mi 4i.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Xiaomi Mi 4i.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Xiaomi Mi 4i.json",
     "token_id": 248
 }, {
     "name": "Xiaomi Mi Note",
     "public_hash": "QmenYsrttr1cbvew2btCqzhXxhNqjVvVPRnPVd8SQZhfxY",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Xiaomi Mi Note.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Xiaomi Mi Note.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Xiaomi Mi Note.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Xiaomi Mi Note.json",
     "token_id": 249
 }, {
     "name": "Xiaomi Redmi Note 3",
     "public_hash": "Qmb2HKpLXaq6et8PmdiBh2oLzbaj6keJ99a97X4hHpRy91",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Xiaomi Redmi Note 3.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Xiaomi Redmi Note 3.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Xiaomi Redmi Note 3.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Xiaomi Redmi Note 3.json",
     "token_id": 250
 }, {
     "name": "Xiaomi Redmi Note 7",
     "public_hash": "QmarspuWomDVk6eL1EtLL6cUm5ha31WTtDiYpmwcXdw5Aj",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Xiaomi Redmi Note 7.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Xiaomi Redmi Note 7.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Xiaomi Redmi Note 7.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Xiaomi Redmi Note 7.json",
     "token_id": 251
 }, {
     "name": "Xiaomi Redmi Note 8 Pro",
     "public_hash": "QmarspuWomDVk6eL1EtLL6cUm5ha31WTtDiYpmwcXdw5Aj",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Xiaomi Redmi Note 8 Pro.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Xiaomi Redmi Note 8 Pro.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Xiaomi Redmi Note 8 Pro.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Xiaomi Redmi Note 8 Pro.json",
     "token_id": 252
 }, {
     "name": "Xiaomi Redmi Note 8",
     "public_hash": "QmarspuWomDVk6eL1EtLL6cUm5ha31WTtDiYpmwcXdw5Aj",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Xiaomi Redmi Note 8.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Xiaomi Redmi Note 8.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Xiaomi Redmi Note 8.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Xiaomi Redmi Note 8.json",
     "token_id": 253
 }, {
     "name": "Xiaomi Redmi Note 9 Pro",
     "public_hash": "QmTUmNZsGC6ou6NfMF8aSieddFL1GfQkSDuGUvUUT1MBv6",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Xiaomi Redmi Note 9 Pro.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Xiaomi Redmi Note 9 Pro.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Xiaomi Redmi Note 9 Pro.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Xiaomi Redmi Note 9 Pro.json",
     "token_id": 254
 }, {
     "name": "Xiaomi Redmi Note 9",
     "public_hash": "QmarspuWomDVk6eL1EtLL6cUm5ha31WTtDiYpmwcXdw5Aj",
-    "image_uri": "Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Xiaomi Redmi Note 9.png",
-    "token_uri": "QmYKGyE9TB8YsUZSNz2Uk53wvo2bk1AuCdAEwHXKh9Ga5i/Metadata-Xiaomi Redmi Note 9.json",
+    "image_uri": "https://isthisa.computer/ipfs/Qmex4oSH7Jc1qyFqePMpQor35WN8xH5DNamFGDvRXWmYuK/Xiaomi Redmi Note 9.png",
+    "token_uri": "QmSivaKuJUwyBMYCjuddD7qNXAYeuEorVj75ezu2RNitiC/Metadata-Xiaomi Redmi Note 9.json",
     "token_id": 255
 }]}
